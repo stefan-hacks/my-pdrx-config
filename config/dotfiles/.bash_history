@@ -116,3 +116,81 @@ pdrx sync
 pdrx backup upgrade
 gitup
 sudo reboot
+z
+z gitprojects/tools/pdrx/
+man rg 
+brew install rg
+man rg
+\man rg
+alias man
+which bat
+sudo ln -s /usr/bin/batcat /usr/bin/bat
+man rg
+gitup
+z
+z gitprojects/tools/pdrx/
+ll
+sudo ./install_manpage.sh --system
+man pdrx
+ll
+rm -rf ~/.local/bin/pdrx 
+./pdrx --install
+cat pdrx.1 
+z .pdrx/
+pdrx sync
+gitup
+z
+z gitprojects/
+ll
+mkdir tools apps 
+mv grub2-themes/ tools/
+ll
+z tools/
+ll
+git clone https://github.com/stefan-hacks/pdrx.git
+z pdrx/
+ll
+z
+z .pdrx/
+pdrx sync-desktop
+gitup
+pdrx sync
+pdrx --help
+pdrx search shellcheck
+brew install shellcheck
+pdrx clean
+pdrx search shellcheck
+pdrx search shellcheck --all
+pdrx search shellcheck
+which pdrx
+z .pdrx/
+pdrx sync
+gitup
+z
+z gitprojects/
+ll
+mkdir tools apps 
+mv grub2-themes/ tools/
+ll
+z tools/
+ll
+git clone https://github.com/stefan-hacks/pdrx.git
+z pdrx/
+ll
+z
+z .pdrx/
+pdrx sync-desktop
+gitup
+pdrx sync
+pdrx --help
+pdrx search shellcheck
+brew install shellcheck
+pdrx clean
+pdrx search shellcheck
+pdrx search shellcheck --all
+pdrx search shellcheck
+which pdrx
+z .pdrx/
+pdrx init
+pdrx status
+pdrx -h
