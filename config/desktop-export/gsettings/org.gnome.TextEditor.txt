@@ -1,0 +1,26 @@
+org.gnome.TextEditor auto-indent true
+org.gnome.TextEditor auto-save-delay uint32 3
+org.gnome.TextEditor custom-font 'Monospace 11'
+org.gnome.TextEditor discover-settings true
+org.gnome.TextEditor draw-spaces @as []
+org.gnome.TextEditor enable-snippets false
+org.gnome.TextEditor highlight-current-line false
+org.gnome.TextEditor highlight-matching-brackets true
+org.gnome.TextEditor indent-style 'tab'
+org.gnome.TextEditor indent-width -1
+org.gnome.TextEditor keybindings 'default'
+org.gnome.TextEditor last-save-directory ''
+org.gnome.TextEditor line-height 1.2
+org.gnome.TextEditor recolor-window true
+org.gnome.TextEditor restore-session true
+org.gnome.TextEditor right-margin-position uint32 80
+org.gnome.TextEditor show-grid false
+org.gnome.TextEditor show-line-numbers false
+org.gnome.TextEditor show-map false
+org.gnome.TextEditor show-right-margin false
+org.gnome.TextEditor spellcheck true
+org.gnome.TextEditor style-scheme 'Adwaita'
+org.gnome.TextEditor style-variant 'follow'
+org.gnome.TextEditor tab-width uint32 8
+org.gnome.TextEditor use-system-font true
+org.gnome.TextEditor wrap-text true

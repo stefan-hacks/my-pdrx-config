@@ -1,0 +1,4 @@
+org.gnome.evolution.plugin.itip attach-components false
+org.gnome.evolution.plugin.itip delete-processed false
+org.gnome.evolution.plugin.itip preserve-reminder true
+org.gnome.evolution.plugin.itip show-message-description false

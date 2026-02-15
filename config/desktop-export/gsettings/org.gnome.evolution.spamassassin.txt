@@ -1,0 +1,3 @@
+org.gnome.evolution.spamassassin command ''
+org.gnome.evolution.spamassassin learn-command ''
+org.gnome.evolution.spamassassin local-only true

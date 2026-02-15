@@ -1,0 +1,12 @@
+org.gnome.login-screen allowed-failures 3
+org.gnome.login-screen banner-message-enable false
+org.gnome.login-screen banner-message-path ''
+org.gnome.login-screen banner-message-source 'settings'
+org.gnome.login-screen banner-message-text ''
+org.gnome.login-screen disable-restart-buttons false
+org.gnome.login-screen disable-user-list false
+org.gnome.login-screen enable-fingerprint-authentication true
+org.gnome.login-screen enable-password-authentication true
+org.gnome.login-screen enable-smartcard-authentication true
+org.gnome.login-screen fallback-logo ''
+org.gnome.login-screen logo ''

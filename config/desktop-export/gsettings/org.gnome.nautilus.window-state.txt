@@ -1,0 +1,3 @@
+org.gnome.nautilus.window-state initial-size (890, 550)
+org.gnome.nautilus.window-state initial-size-file-chooser (890, 550)
+org.gnome.nautilus.window-state maximized false

@@ -1,0 +1,5 @@
+org.gnome.GWeather4 default-location ('', 'KNYC', @m(dd) nothing)
+org.gnome.GWeather4 distance-unit 'default'
+org.gnome.GWeather4 pressure-unit 'default'
+org.gnome.GWeather4 speed-unit 'default'
+org.gnome.GWeather4 temperature-unit 'default'

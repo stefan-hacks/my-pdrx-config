@@ -1,0 +1,4 @@
+org.gnome.desktop.search-providers disable-external false
+org.gnome.desktop.search-providers disabled @as []
+org.gnome.desktop.search-providers enabled @as []
+org.gnome.desktop.search-providers sort-order ['org.gnome.Settings.desktop', 'org.gnome.Contacts.desktop', 'org.gnome.Nautilus.desktop']

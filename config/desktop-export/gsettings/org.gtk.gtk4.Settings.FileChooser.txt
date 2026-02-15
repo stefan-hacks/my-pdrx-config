@@ -1,0 +1,16 @@
+org.gtk.gtk4.Settings.FileChooser clock-format '24h'
+org.gtk.gtk4.Settings.FileChooser date-format 'regular'
+org.gtk.gtk4.Settings.FileChooser expand-folders false
+org.gtk.gtk4.Settings.FileChooser location-mode 'path-bar'
+org.gtk.gtk4.Settings.FileChooser show-hidden false
+org.gtk.gtk4.Settings.FileChooser show-size-column true
+org.gtk.gtk4.Settings.FileChooser show-type-column true
+org.gtk.gtk4.Settings.FileChooser sidebar-width -1
+org.gtk.gtk4.Settings.FileChooser sort-column 'name'
+org.gtk.gtk4.Settings.FileChooser sort-directories-first true
+org.gtk.gtk4.Settings.FileChooser sort-order 'ascending'
+org.gtk.gtk4.Settings.FileChooser startup-mode 'recent'
+org.gtk.gtk4.Settings.FileChooser type-format 'category'
+org.gtk.gtk4.Settings.FileChooser view-type 'list'
+org.gtk.gtk4.Settings.FileChooser window-position (-1, -1)
+org.gtk.gtk4.Settings.FileChooser window-size (-1, -1)

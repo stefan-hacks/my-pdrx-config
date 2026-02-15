@@ -1,0 +1,52 @@
+[global_config]
+  enabled_plugins = SaveUserSessionLayout, SaveLastSessionLayout, LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler
+  ask_before_closing = never
+[keybindings]
+  new_tab = <Primary>t
+  go_up = <Alt>k
+  go_down = <Alt>j
+  go_left = <Alt>h
+  go_right = <Alt>l
+  split_horiz = <Primary><Alt>minus
+  split_vert = <Primary><Alt>backslash
+  close_term = <Primary><Shift>w
+  resize_up = <Shift><Alt>k
+  resize_down = <Shift><Alt>j
+  resize_left = <Shift><Alt>h
+  resize_right = <Shift><Alt>l
+  group_all = ""
+  group_all_toggle = <Super>g
+  broadcast_off = <Primary><Shift><Alt>b
+  broadcast_all = <Primary><Alt>b
+  layout_launcher = ""
+  help = <Super>question
+[profiles]
+  [[default]]
+    background_color = "#241f31"
+    background_darkness = 0.0
+    background_type = transparent
+    cursor_fg_color = "#a0e900"
+    cursor_bg_color = "#a0e900"
+    cursor_color_default = False
+    font = Hack Nerd Font 14
+    foreground_color = "#ffffff"
+    palette = "#1f2229:#d41919:#5ebdab:#fea44c:#367bf0:#9755b3:#49aee6:#e6e6e6:#198388:#ec0101:#47d4b9:#ff8a18:#277fff:#962ac3:#05a1f7:#ffffff"
+    use_system_font = False
+    bold_is_bright = True
+    copy_on_selection = True
+    title_hide_sizetext = True
+    title_transmit_fg_color = "#000000"
+    title_transmit_bg_color = "#a0e900"
+    title_receive_fg_color = "#000000"
+    title_receive_bg_color = "#ffbe6f"
+    title_inactive_bg_color = "#241f31"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+  [[SaveLastSessionLayout]]
+[plugins]

@@ -1,0 +1,21 @@
+org.gnome.nautilus.preferences always-use-location-entry false
+org.gnome.nautilus.preferences click-policy 'double'
+org.gnome.nautilus.preferences date-time-format 'simple'
+org.gnome.nautilus.preferences default-folder-viewer 'icon-view'
+org.gnome.nautilus.preferences default-sort-in-reverse-order false
+org.gnome.nautilus.preferences default-sort-order 'name'
+org.gnome.nautilus.preferences fts-enabled true
+org.gnome.nautilus.preferences install-mime-activation true
+org.gnome.nautilus.preferences migrated-gtk-settings false
+org.gnome.nautilus.preferences mouse-back-button uint32 8
+org.gnome.nautilus.preferences mouse-forward-button uint32 9
+org.gnome.nautilus.preferences mouse-use-extra-buttons true
+org.gnome.nautilus.preferences open-folder-on-dnd-hover true
+org.gnome.nautilus.preferences recursive-search 'local-only'
+org.gnome.nautilus.preferences search-filter-time-type 'last_modified'
+org.gnome.nautilus.preferences show-create-link false
+org.gnome.nautilus.preferences show-delete-permanently false
+org.gnome.nautilus.preferences show-directory-item-counts 'local-only'
+org.gnome.nautilus.preferences show-hidden-files false
+org.gnome.nautilus.preferences show-image-thumbnails 'local-only'
+org.gnome.nautilus.preferences thumbnail-limit uint64 50

@@ -1,0 +1,2 @@
+org.gnome.system.proxy.ftp host ''
+org.gnome.system.proxy.ftp port 0
