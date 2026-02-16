@@ -578,7 +578,7 @@ show-sidebar=false
 sidebar-page='thumbnails'
 sidebar-size=148
 sizing-mode='free'
-window-ratio=(3.1372549019607843, 1.327020202020202)
+window-ratio=(3.1375838926174495, 1.2826603325415677)
 zoom=0.70710676908493042
 
 [org/gnome/evolution-data-server]
@@ -742,7 +742,7 @@ show-image-thumbnails='always'
 [org/gnome/nautilus/window-state]
 initial-size=(1230, 821)
 initial-size-file-chooser=(1536, 568)
-maximized=true
+maximized=false
 
 [org/gnome/papers]
 night-mode=false
@@ -1516,7 +1516,7 @@ radius-bottomleft=true
 radius-bottomright=true
 radius-topleft=true
 radius-topright=true
-reloadstyle=true
+reloadstyle=false
 removestyle=false
 sbar-gradient='to left'
 set-bottom-margin=true
@@ -1763,7 +1763,7 @@ library-maximize=false
 library-width=1133
 
 [org/gnome/software]
-check-timestamp=int64 1771172213
+check-timestamp=int64 1771246959
 first-run=false
 flatpak-purge-timestamp=int64 1771210897
 install-timestamp=int64 1769720527
