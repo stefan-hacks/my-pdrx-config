@@ -1,0 +1,24 @@
+org.gnome.evolution-data-server.calendar contacts-reminder-enabled false
+org.gnome.evolution-data-server.calendar contacts-reminder-interval 15
+org.gnome.evolution-data-server.calendar contacts-reminder-units 'minutes'
+org.gnome.evolution-data-server.calendar defall-reminder-enabled false
+org.gnome.evolution-data-server.calendar defall-reminder-interval 15
+org.gnome.evolution-data-server.calendar defall-reminder-units 'minutes'
+org.gnome.evolution-data-server.calendar delete-meeting-on-decline true
+org.gnome.evolution-data-server.calendar notify-completed-tasks true
+org.gnome.evolution-data-server.calendar notify-custom-snooze-minutes @ai []
+org.gnome.evolution-data-server.calendar notify-enable-audio true
+org.gnome.evolution-data-server.calendar notify-enable-display true
+org.gnome.evolution-data-server.calendar notify-last-snooze-minutes 5
+org.gnome.evolution-data-server.calendar notify-past-events false
+org.gnome.evolution-data-server.calendar notify-programs @as []
+org.gnome.evolution-data-server.calendar notify-window-height -1
+org.gnome.evolution-data-server.calendar notify-window-on-top true
+org.gnome.evolution-data-server.calendar notify-window-paned-position -1
+org.gnome.evolution-data-server.calendar notify-window-width -1
+org.gnome.evolution-data-server.calendar notify-window-x -1
+org.gnome.evolution-data-server.calendar notify-window-y -1
+org.gnome.evolution-data-server.calendar notify-with-tray true
+org.gnome.evolution-data-server.calendar reminders-past ['']
+org.gnome.evolution-data-server.calendar reminders-past-days 7
+org.gnome.evolution-data-server.calendar reminders-snoozed ['']

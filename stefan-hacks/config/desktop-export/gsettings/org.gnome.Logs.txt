@@ -1,0 +1,2 @@
+org.gnome.Logs ignore-warning false
+org.gnome.Logs sort-order 'descending-time'

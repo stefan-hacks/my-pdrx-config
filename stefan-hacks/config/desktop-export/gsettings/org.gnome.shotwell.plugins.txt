@@ -1,0 +1,17 @@
+org.gnome.shotwell.plugins.enable-state org-gnome-shotwell-publishing-google-photos true
+org.gnome.shotwell.plugins.enable-state publishing-flickr true
+org.gnome.shotwell.plugins.enable-state publishing-gallery3 false
+org.gnome.shotwell.plugins.enable-state publishing-google-photos true
+org.gnome.shotwell.plugins.enable-state publishing-piwigo true
+org.gnome.shotwell.plugins.enable-state publishing-tumblr false
+org.gnome.shotwell.plugins.enable-state publishing-youtube true
+org.gnome.shotwell.plugins.enable-state transitions-blinds true
+org.gnome.shotwell.plugins.enable-state transitions-chess true
+org.gnome.shotwell.plugins.enable-state transitions-circle true
+org.gnome.shotwell.plugins.enable-state transitions-circles true
+org.gnome.shotwell.plugins.enable-state transitions-clock true
+org.gnome.shotwell.plugins.enable-state transitions-crumble true
+org.gnome.shotwell.plugins.enable-state transitions-fade true
+org.gnome.shotwell.plugins.enable-state transitions-slide true
+org.gnome.shotwell.plugins.enable-state transitions-squares true
+org.gnome.shotwell.plugins.enable-state transitions-stripes true

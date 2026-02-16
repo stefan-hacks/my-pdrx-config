@@ -1,0 +1,1 @@
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-yandex-fotki auth-token ''

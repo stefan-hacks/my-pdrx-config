@@ -1,0 +1,1 @@
+org.gnome.evolution.plugin.attachment-reminder attachment-reminder-clues ['attachment', 'attaching', 'attached', 'enclosed']

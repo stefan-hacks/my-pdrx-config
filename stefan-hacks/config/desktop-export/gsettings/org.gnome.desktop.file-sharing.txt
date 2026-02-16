@@ -1,0 +1,1 @@
+org.gnome.desktop.file-sharing require-password 'never'

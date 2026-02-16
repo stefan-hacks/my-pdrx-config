@@ -1,0 +1,10 @@
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-piwigo last-category -1
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-piwigo last-no-upload-tags false
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-piwigo last-permission-level -1
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-piwigo last-photo-size -1
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-piwigo last-title-as-comment false
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-piwigo password ''
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-piwigo remember-password false
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-piwigo strip-metadata false
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-piwigo url ''
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-piwigo username ''

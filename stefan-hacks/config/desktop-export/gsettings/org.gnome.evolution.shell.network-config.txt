@@ -1,0 +1,13 @@
+org.gnome.evolution.shell.network-config authentication-password ''
+org.gnome.evolution.shell.network-config authentication-user ''
+org.gnome.evolution.shell.network-config autoconfig-url ''
+org.gnome.evolution.shell.network-config http-host ''
+org.gnome.evolution.shell.network-config http-port 0
+org.gnome.evolution.shell.network-config ignore-hosts @as []
+org.gnome.evolution.shell.network-config proxy-type 0
+org.gnome.evolution.shell.network-config secure-host ''
+org.gnome.evolution.shell.network-config secure-port 0
+org.gnome.evolution.shell.network-config socks-host ''
+org.gnome.evolution.shell.network-config socks-port 0
+org.gnome.evolution.shell.network-config use-authentication false
+org.gnome.evolution.shell.network-config use-http-proxy false

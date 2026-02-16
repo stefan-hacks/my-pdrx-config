@@ -1,0 +1,2 @@
+org.gnome.shell.weather automatic-location false
+org.gnome.shell.weather locations @av []

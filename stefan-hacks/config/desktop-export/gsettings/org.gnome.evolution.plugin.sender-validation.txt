@@ -1,0 +1,2 @@
+org.gnome.evolution.plugin.sender-validation account-for-recipients @as []
+org.gnome.evolution.plugin.sender-validation assignments @as []

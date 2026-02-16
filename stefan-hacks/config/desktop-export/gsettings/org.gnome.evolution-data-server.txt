@@ -1,0 +1,16 @@
+org.gnome.evolution-data-server autoconfig-directory ''
+org.gnome.evolution-data-server autoconfig-variables ['']
+org.gnome.evolution-data-server camel-cipher-load-photos true
+org.gnome.evolution-data-server camel-gpg-binary ''
+org.gnome.evolution-data-server camel-message-info-user-headers @as []
+org.gnome.evolution-data-server camel-smtp-helo-argument ''
+org.gnome.evolution-data-server limit-operations-in-power-saver-mode false
+org.gnome.evolution-data-server migrated false
+org.gnome.evolution-data-server network-monitor-gio-name ''
+org.gnome.evolution-data-server oauth2-google-client-id ''
+org.gnome.evolution-data-server oauth2-google-client-secret ''
+org.gnome.evolution-data-server oauth2-outlook-client-id ''
+org.gnome.evolution-data-server oauth2-outlook-client-secret ''
+org.gnome.evolution-data-server oauth2-services-hint ['']
+org.gnome.evolution-data-server oauth2-yahoo-client-id ''
+org.gnome.evolution-data-server oauth2-yahoo-client-secret ''
