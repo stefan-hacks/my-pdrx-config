@@ -194,3 +194,313 @@ z .pdrx/
 pdrx init
 pdrx status
 pdrx -h
+pdrx -v
+pdrx search shellcheck
+pdrx search cava
+pdrx install cava
+kew
+pdrx sync
+pdrx list
+pdrx backup latest
+pdrx generations
+pdrx sync
+pdrx generations
+pdrx clean
+pdrx clean 1-3
+pdrx generations
+pdrx sync-desktop
+pdrx update
+z
+z gitprojects/tools/pdrx/
+gitup
+ll
+sudo ./install_manpage.sh --system
+rm -rf ~/.local/bin/pdrx
+./pdrx --install
+pdrx -v
+man pdrx
+which pdrx
+whereis pdrx
+ct pdrx
+z /usr/local/share/man
+ll
+z man1/
+ll
+cat pdrx.1
+z
+cd -
+ll
+sudo rm -rf pdrx.1 
+z
+z gitprojects/tools/pdrx/
+sudo ./install_manpage.sh --system
+man pdrx
+sudo rm -rf /usr/local/share/man/man1/pdrx.1
+pdrx -h
+cat pdrx.1
+pdrx -v
+pdrx -h
+rm -rf ~/.local/bin/pdrx
+lla
+sudo ./install_manpage.sh --system
+./pdrx --install
+gitup
+man pdrx
+sudo rm -rf /usr/local/share/man/man1/pdrx.1
+ll ~/.local/share/man/
+z ~/.local/share/man/
+ll
+z man1/
+ll
+rm pdrx.1 
+z
+z gitprojects/tools/pdrx/
+pdrx -h
+sudo ./install_manpage.sh --system
+man pdrx
+./install_manpage.sh 
+man pdrx
+gitup
+z
+z .pdrx/
+ll
+pdrx init
+pdrx status
+pdrx update
+pdrx upgrade
+gitup
+lta
+pdrx sync-desktop
+pdrx sync
+pdrx generations
+gitup
+gitleaks
+gitleaks dir
+onefetch
+z
+z gitprojects/tools/pdrx/
+nvim README.md 
+gitup
+nvim README.md
+gitup
+z
+z .pdrx/
+pdrx sync
+pdrx sync-desktop
+pdrx backup ghost
+gitup
+z
+z distro_images/
+ll
+rm Oracle_VirtualBox_Extension_Pack-7.2.4.vbox-extpack 
+ll ~/Downloads/
+mv ~/Downloads/Oracle_VirtualBox_Extension_Pack-7.2.6.vbox-extpack .
+z
+z .pdrx/
+pdrx export > config.tar.gz
+gitup
+ll
+rm -rf config.tar.gz 
+gitup
+lla
+gitup
+ll
+lazygit
+gitup
+z
+ll
+mkdir scripts
+z scripts/
+nvim install-package_managers.sh
+mv install-package_managers.sh fresh_setup.sh
+chmod +x fresh_setup.sh 
+z
+pdrx track ~/scripts/fresh_setup.sh 
+z .pdrx/
+gitup
+z
+ll
+z scripts/
+ll
+pdrx untrack ~/scripts/fresh_setup.sh
+mv ~/Downloads/fresh_setup_improved.sh .
+ll
+rm fresh_setup.sh 
+mv fresh_setup_improved.sh fresh_setup.sh 
+chmod +x fresh_setup.sh
+pdrx track ~/scripts/fresh_setup.sh
+z
+z .pdrx/
+gitup
+z
+z scripts/
+nvim fresh_setup.sh 
+z
+z .pdrx/
+gitup
+pdrx sync
+z
+z gitprojects/tools/pdrx/
+nvim README.md
+gitup
+nvim README.md
+gitup
+nvim README.md
+gitup
+nvim README.md
+gitup
+pdrx -v
+pdrx search shellcheck
+pdrx search cava
+pdrx install cava
+kew
+pdrx sync
+pdrx list
+pdrx backup latest
+pdrx generations
+pdrx sync
+pdrx generations
+pdrx clean
+pdrx clean 1-3
+pdrx generations
+pdrx sync-desktop
+pdrx update
+z
+z gitprojects/tools/pdrx/
+gitup
+ll
+sudo ./install_manpage.sh --system
+rm -rf ~/.local/bin/pdrx
+./pdrx --install
+pdrx -v
+man pdrx
+which pdrx
+whereis pdrx
+ct pdrx
+z /usr/local/share/man
+ll
+z man1/
+ll
+cat pdrx.1
+z
+cd -
+ll
+sudo rm -rf pdrx.1 
+z
+z gitprojects/tools/pdrx/
+sudo ./install_manpage.sh --system
+man pdrx
+sudo rm -rf /usr/local/share/man/man1/pdrx.1
+pdrx -h
+cat pdrx.1
+pdrx -v
+pdrx -h
+rm -rf ~/.local/bin/pdrx
+lla
+sudo ./install_manpage.sh --system
+./pdrx --install
+gitup
+man pdrx
+sudo rm -rf /usr/local/share/man/man1/pdrx.1
+ll ~/.local/share/man/
+z ~/.local/share/man/
+ll
+z man1/
+ll
+rm pdrx.1 
+z
+z gitprojects/tools/pdrx/
+pdrx -h
+sudo ./install_manpage.sh --system
+man pdrx
+./install_manpage.sh 
+man pdrx
+gitup
+z
+z .pdrx/
+ll
+pdrx init
+pdrx status
+pdrx update
+pdrx upgrade
+gitup
+lta
+pdrx sync-desktop
+pdrx sync
+pdrx generations
+gitup
+gitleaks
+gitleaks dir
+onefetch
+z
+z gitprojects/tools/pdrx/
+nvim README.md 
+gitup
+nvim README.md
+gitup
+z
+z .pdrx/
+pdrx sync
+pdrx sync-desktop
+pdrx backup ghost
+gitup
+z
+z distro_images/
+ll
+rm Oracle_VirtualBox_Extension_Pack-7.2.4.vbox-extpack 
+ll ~/Downloads/
+mv ~/Downloads/Oracle_VirtualBox_Extension_Pack-7.2.6.vbox-extpack .
+z
+z .pdrx/
+pdrx export > config.tar.gz
+gitup
+ll
+rm -rf config.tar.gz 
+gitup
+lla
+gitup
+ll
+lazygit
+gitup
+z
+ll
+mkdir scripts
+z scripts/
+nvim install-package_managers.sh
+mv install-package_managers.sh fresh_setup.sh
+chmod +x fresh_setup.sh 
+z
+pdrx track ~/scripts/fresh_setup.sh 
+z .pdrx/
+gitup
+z
+ll
+z scripts/
+ll
+pdrx untrack ~/scripts/fresh_setup.sh
+mv ~/Downloads/fresh_setup_improved.sh .
+ll
+rm fresh_setup.sh 
+mv fresh_setup_improved.sh fresh_setup.sh 
+chmod +x fresh_setup.sh
+pdrx track ~/scripts/fresh_setup.sh
+z
+z .pdrx/
+gitup
+z
+z scripts/
+nvim fresh_setup.sh 
+z
+z .pdrx/
+gitup
+pdrx sync
+z
+z gitprojects/tools/pdrx/
+nvim README.md
+gitup
+nvim README.md
+gitup
+nvim README.md
+gitup
+nvim README.md
+gitup
