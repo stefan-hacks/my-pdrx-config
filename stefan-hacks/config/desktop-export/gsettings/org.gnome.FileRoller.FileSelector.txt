@@ -1,5 +1,0 @@
-org.gnome.FileRoller.FileSelector show-hidden false
-org.gnome.FileRoller.FileSelector sidebar-size -1
-org.gnome.FileRoller.FileSelector sort-method 'name'
-org.gnome.FileRoller.FileSelector sort-type 'ascending'
-org.gnome.FileRoller.FileSelector window-size (-1, -1)

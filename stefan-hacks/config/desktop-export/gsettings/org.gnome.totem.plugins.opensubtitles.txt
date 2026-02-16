@@ -1,1 +1,0 @@
-org.gnome.totem.plugins.opensubtitles language ''

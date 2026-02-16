@@ -1,4 +1,0 @@
-org.gnome.SoundRecorder audio-channel 'stereo'
-org.gnome.SoundRecorder audio-profile 'flac'
-org.gnome.SoundRecorder window-position @ai []
-org.gnome.SoundRecorder window-size [780, 480]

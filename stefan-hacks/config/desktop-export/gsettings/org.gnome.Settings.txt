@@ -1,3 +1,0 @@
-org.gnome.Settings last-panel ''
-org.gnome.Settings show-development-warning true
-org.gnome.Settings window-state (-1, -1, false)

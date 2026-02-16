@@ -1,3 +1,0 @@
-org.gnome.desktop.notifications application-children @as []
-org.gnome.desktop.notifications show-banners true
-org.gnome.desktop.notifications show-in-lock-screen true

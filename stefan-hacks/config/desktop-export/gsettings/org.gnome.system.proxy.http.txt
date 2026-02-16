@@ -1,6 +1,0 @@
-org.gnome.system.proxy.http authentication-password ''
-org.gnome.system.proxy.http authentication-user ''
-org.gnome.system.proxy.http enabled false
-org.gnome.system.proxy.http host ''
-org.gnome.system.proxy.http port 8080
-org.gnome.system.proxy.http use-authentication false

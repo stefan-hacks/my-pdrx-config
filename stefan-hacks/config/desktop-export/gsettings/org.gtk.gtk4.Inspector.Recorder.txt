@@ -1,4 +1,0 @@
-org.gtk.gtk4.Inspector.Recorder dark false
-org.gtk.gtk4.Inspector.Recorder debug-nodes false
-org.gtk.gtk4.Inspector.Recorder highlight-sequences false
-org.gtk.gtk4.Inspector.Recorder record-events false

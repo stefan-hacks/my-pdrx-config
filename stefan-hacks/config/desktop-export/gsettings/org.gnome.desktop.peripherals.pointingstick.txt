@@ -1,3 +1,0 @@
-org.gnome.desktop.peripherals.pointingstick accel-profile 'default'
-org.gnome.desktop.peripherals.pointingstick scroll-method 'default'
-org.gnome.desktop.peripherals.pointingstick speed 0.0

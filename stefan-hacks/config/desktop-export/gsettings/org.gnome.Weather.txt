@@ -1,4 +1,0 @@
-org.gnome.Weather locations @av []
-org.gnome.Weather window-height -1
-org.gnome.Weather window-maximized false
-org.gnome.Weather window-width -1

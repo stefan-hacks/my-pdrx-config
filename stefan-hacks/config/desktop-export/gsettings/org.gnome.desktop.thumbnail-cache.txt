@@ -1,2 +1,0 @@
-org.gnome.desktop.thumbnail-cache maximum-age 180
-org.gnome.desktop.thumbnail-cache maximum-size 512

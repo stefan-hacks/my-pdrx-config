@@ -1,6 +1,0 @@
-org.yorba.shotwell.sharing.flickr access-phase-token ''
-org.yorba.shotwell.sharing.flickr access-phase-token-secret ''
-org.yorba.shotwell.sharing.flickr access-phase-username ''
-org.yorba.shotwell.sharing.flickr default-size 2
-org.yorba.shotwell.sharing.flickr strip-metadata false
-org.yorba.shotwell.sharing.flickr visibility 1

@@ -1,2 +1,0 @@
-org.gnome.system.dns_sd display-local 'merged'
-org.gnome.system.dns_sd extra-domains ''

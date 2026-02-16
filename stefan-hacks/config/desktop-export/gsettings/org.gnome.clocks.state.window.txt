@@ -1,3 +1,0 @@
-org.gnome.clocks.state.window maximized false
-org.gnome.clocks.state.window panel-id 'world'
-org.gnome.clocks.state.window size (870, 690)

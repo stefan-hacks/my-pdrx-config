@@ -1,3 +1,0 @@
-org.gnome.Extensions window-height 500
-org.gnome.Extensions window-maximized false
-org.gnome.Extensions window-width 800

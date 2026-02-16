@@ -1,5 +1,0 @@
-org.gnome.calendar active-view 'month'
-org.gnome.calendar weather-settings (true, true, '', @mv nothing)
-org.gnome.calendar week-view-zoom-level 1.0
-org.gnome.calendar window-maximized true
-org.gnome.calendar window-size (768, 600)

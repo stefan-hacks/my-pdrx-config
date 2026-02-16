@@ -1,2 +1,0 @@
-org.gnome.desktop.a11y always-show-text-caret false
-org.gnome.desktop.a11y always-show-universal-access-status false

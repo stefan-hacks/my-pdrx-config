@@ -1,7 +1,0 @@
-org.gnome.desktop.remote-desktop.rdp enable false
-org.gnome.desktop.remote-desktop.rdp negotiate-port true
-org.gnome.desktop.remote-desktop.rdp port uint16 3389
-org.gnome.desktop.remote-desktop.rdp screen-share-mode 'mirror-primary'
-org.gnome.desktop.remote-desktop.rdp tls-cert ''
-org.gnome.desktop.remote-desktop.rdp tls-key ''
-org.gnome.desktop.remote-desktop.rdp view-only true

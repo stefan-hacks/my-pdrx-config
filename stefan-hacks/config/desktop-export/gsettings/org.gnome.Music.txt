@@ -1,5 +1,0 @@
-org.gnome.Music inhibit-suspend false
-org.gnome.Music repeat 'none'
-org.gnome.Music replaygain 'disabled'
-org.gnome.Music window-maximized true
-org.gnome.Music window-size [768, 600]

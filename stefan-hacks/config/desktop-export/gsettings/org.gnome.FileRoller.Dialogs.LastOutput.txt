@@ -1,2 +1,0 @@
-org.gnome.FileRoller.Dialogs.LastOutput height 500
-org.gnome.FileRoller.Dialogs.LastOutput width 1000

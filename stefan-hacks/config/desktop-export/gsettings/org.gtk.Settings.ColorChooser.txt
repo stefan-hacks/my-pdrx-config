@@ -1,2 +1,0 @@
-org.gtk.Settings.ColorChooser custom-colors @a(dddd) []
-org.gtk.Settings.ColorChooser selected-color (false, 1.0, 1.0, 1.0, 1.0)

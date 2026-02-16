@@ -1,4 +1,0 @@
-org.gnome.Disks.benchmark do-write true
-org.gnome.Disks.benchmark num-access-samples 1000
-org.gnome.Disks.benchmark num-samples 100
-org.gnome.Disks.benchmark sample-size-mib 10

@@ -1,4 +1,0 @@
-org.yorba.shotwell.sharing.org-gnome-shotwell-publishing-google-photos default-size 2
-org.yorba.shotwell.sharing.org-gnome-shotwell-publishing-google-photos last-album ''
-org.yorba.shotwell.sharing.org-gnome-shotwell-publishing-google-photos refresh-token ''
-org.yorba.shotwell.sharing.org-gnome-shotwell-publishing-google-photos strip-metadata false

@@ -1,9 +1,0 @@
-org.gnome.seahorse.manager item-filter 'personal'
-org.gnome.seahorse.manager keyrings-selected ['secret-service://login']
-org.gnome.seahorse.manager show-expiry false
-org.gnome.seahorse.manager show-trust false
-org.gnome.seahorse.manager show-type false
-org.gnome.seahorse.manager show-validity false
-org.gnome.seahorse.manager sidebar-visible true
-org.gnome.seahorse.manager sidebar-width 148
-org.gnome.seahorse.manager sort-by 'name'

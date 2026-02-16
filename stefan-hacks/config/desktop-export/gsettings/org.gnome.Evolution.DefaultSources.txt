@@ -1,6 +1,0 @@
-org.gnome.Evolution.DefaultSources default-address-book 'system'
-org.gnome.Evolution.DefaultSources default-calendar 'system'
-org.gnome.Evolution.DefaultSources default-mail-account 'system'
-org.gnome.Evolution.DefaultSources default-mail-identity ''
-org.gnome.Evolution.DefaultSources default-memo-list 'system'
-org.gnome.Evolution.DefaultSources default-task-list 'system'
