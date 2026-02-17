@@ -57,3 +57,11 @@
 .config/wezterm/wezterm.lua
 .config/yazi/theme.toml
 .config/zellij/config.kdl
+.bash_history
+.bash_aliases
+.bashrc
+.blerc
+.inputrc
+.mostrc
+.nanorc
+.vimrc
