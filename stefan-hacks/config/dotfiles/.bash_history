@@ -649,3 +649,29 @@ ll
 cat state/tracked-dotfiles
 cat .pdrx/stefan-hacks/state/tracked-dotfiles
 lla
+pdrx track .bash_history .bash_aliases .bashrc .blerc .inputrc .mostrc .nanorc .vimrc
+lla
+cat .viminfo 
+z .pdrx/
+gitup
+z
+ll
+rm -rf my-pdrx-config/ 
+z pdrx/
+./install_manpage.sh
+man pdrx
+z
+rm -rf pdrx/
+pdrx track fresh_debian_setup/*
+lla
+pdrx track fresh_debian_setup
+ll fresh_debian_setup/
+z .pdrx/
+gitup
+z
+z gitprojects/tools/pdrx/
+gitup
+cd
+rm -rf .local/bin/pdrx 
+cp gitprojects/tools/pdrx/pdrx .local/bin
+source .bashrc
