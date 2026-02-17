@@ -675,3 +675,124 @@ cd
 rm -rf .local/bin/pdrx 
 cp gitprojects/tools/pdrx/pdrx .local/bin
 source .bashrc
+pdrx status
+pdrx sync
+lta .pdrx/stefan-hacks/
+cat .pdrx/stefan-hacks/state/tracked-dotfiles
+cat fresh_debian_setup/fresh_setup.sh 
+z .pdrx/
+git pull
+lla
+pdrx track /etc/apt/sources.list 
+pdrx untrack /etc/apt/sources.list
+cd /etc/apt
+ll
+z
+z .pdrx/
+gitup
+lla
+pdrx status
+pdrx sync
+lta .pdrx/stefan-hacks/
+cat .pdrx/stefan-hacks/state/tracked-dotfiles
+cat fresh_debian_setup/fresh_setup.sh 
+z .pdrx/
+git pull
+lla
+pdrx track /etc/apt/sources.list 
+pdrx untrack /etc/apt/sources.list
+cd /etc/apt
+ll
+z
+z .pdrx/
+gitup
+lla
+z
+z Downloads/
+ll
+mv VKUy4-hu.jpeg icon.jpeg
+mv icon.jpeg icon_pygr.jpeg 
+z .pdrx/
+z .pdrx/
+z gitprojects/tools/
+git clone https://github.com/stefan-hacks/pygr.git
+mv ~/Downloads/deepseek_python_20260217_fd684d.py pygr.py
+ll
+mv pygr.py pygr
+z pygr/
+ll
+mv ~/Downloads/deepseek_bash_20260217_aa467f.sh install-pygr.sh
+chmod install-pygr.sh 
+chmod +x install-pygr.sh 
+ll
+nvim README.md
+mv README.md installation_instructions.md
+mv ~/Downloads/icon_pygr.jpeg .
+ll
+gitup
+rm icon_pygr.jpeg 
+mv ~/Downloads/icon_pygr-removebg-preview.png icon_pygr.png
+gitup
+cat README.md 
+nvim README.md
+head README.md 
+..
+ll
+z pdrx/
+nvim README.md
+mv ~/Downloads/icon_pdrx.png .
+gitup
+cp icon_pdrx.png ~/Downloads/
+git pull
+git config pull.rebase false
+git pull
+lla
+gitup
+..
+z pygr/
+gitup
+lla
+gitup
+nvim README.md
+gitup
+z gitprojects/tools/
+git clone https://github.com/stefan-hacks/pygr.git
+mv ~/Downloads/deepseek_python_20260217_fd684d.py pygr.py
+ll
+mv pygr.py pygr
+z pygr/
+ll
+mv ~/Downloads/deepseek_bash_20260217_aa467f.sh install-pygr.sh
+chmod install-pygr.sh 
+chmod +x install-pygr.sh 
+ll
+nvim README.md
+mv README.md installation_instructions.md
+mv ~/Downloads/icon_pygr.jpeg .
+ll
+gitup
+rm icon_pygr.jpeg 
+mv ~/Downloads/icon_pygr-removebg-preview.png icon_pygr.png
+gitup
+cat README.md 
+nvim README.md
+head README.md 
+..
+ll
+z pdrx/
+nvim README.md
+mv ~/Downloads/icon_pdrx.png .
+gitup
+cp icon_pdrx.png ~/Downloads/
+git pull
+git config pull.rebase false
+git pull
+lla
+gitup
+..
+z pygr/
+gitup
+lla
+gitup
+nvim README.md
+gitup
