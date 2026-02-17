@@ -65,3 +65,5 @@
 .mostrc
 .nanorc
 .vimrc
+fresh_debian_setup/fresh_setup.sh
+fresh_debian_setup/QUICK_REFERENCE.md
