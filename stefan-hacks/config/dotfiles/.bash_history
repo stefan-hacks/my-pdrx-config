@@ -880,3 +880,179 @@ curl -fsSL https://raw.githubusercontent.com/kbwhodat/gonwatch/main/install.sh |
 gonwatch
 curl -fsSL https://raw.githubusercontent.com/kbwhodat/gonwatch/main/install.sh | bash
 gonwatch
+z .pdrx/
+pdrx sync-desktop
+pdrx sync
+gitup
+pdrx install posting
+posting
+pdrx sync
+pdrx track ~/scripts/*
+z
+z scripts/
+ll
+chmod _x file_organizer.sh 
+chmod +x file_organizer.sh
+z .pdrx/
+gitup
+z
+ff
+cpufetch
+lsusb | grep -i synaptics
+sudo lsusb | grep -i synaptics
+z Downloads/
+ll
+mv fingerprint-840g8-debian13.md ~
+z
+pdrx track fingerprint-840g8-debian13.md 
+z .pdrx/
+pdrx sync
+gitup
+z .pdrx/
+pdrx sync-desktop
+pdrx sync
+gitup
+pdrx install posting
+posting
+pdrx sync
+pdrx track ~/scripts/*
+z
+z scripts/
+ll
+chmod _x file_organizer.sh 
+chmod +x file_organizer.sh
+z .pdrx/
+gitup
+z
+ff
+cpufetch
+lsusb | grep -i synaptics
+sudo lsusb | grep -i synaptics
+z Downloads/
+ll
+mv fingerprint-840g8-debian13.md ~
+z
+pdrx track fingerprint-840g8-debian13.md 
+z .pdrx/
+pdrx sync
+gitup
+lsblk
+lsblk
+# Install fwupd if not already present
+sudo apt update
+sudo apt install -y fwupd
+
+# Refresh firmware metadata from LVFS
+fwupdmgr refresh --force
+
+# Check for available updates (look for "Prometheus" in the list)
+fwupdmgr get-updates
+
+# Apply all firmware updates
+fwupdmgr update
+sudo apt autoremove
+sudo reboot
+eval -- $'# Install fwupd if not already present\nsudo apt update\nsudo apt install -y fwupd\n\n# Refresh firmware metadata from LVFS\nfwupdmgr refresh --force\n\n# Check for available updates (look for "Prometheus" in the list)\nfwupdmgr get-updates\n\n# Apply all firmware updates\nfwupdmgr update'
+sudo apt autoremove
+sudo reboot
+sudo apt install -y fprintd libpam-fprintd gir1.2-gusb-1.0
+lsusb
+# Enable LVFS testing repository
+fwupdmgr enable-remote lvfs-testing
+
+# Refresh and try again
+fwupdmgr refresh --force
+fwupdmgr update
+fwupdmgr update
+fwupdmgr refresh --force
+fwupdmgr update
+
+fwupdmgr upgrade
+fwupdmgr upgrade lvfs-testing
+lsusb
+sudo apt install -y fprintd libpam-fprintd gir1.2-gusb-1.0
+lsusb
+eval -- $'# Enable LVFS testing repository\nfwupdmgr enable-remote lvfs-testing\n\n# Refresh and try again\nfwupdmgr refresh --force\nfwupdmgr update'
+fwupdmgr update
+eval -- $'fwupdmgr refresh --force\nfwupdmgr update\n'
+fwupdmgr upgrade
+fwupdmgr upgrade lvfs-testing
+lsusb
+# Enable LVFS testing repository
+fwupdmgr enable-remote lvfs-testing
+
+# Refresh and try again
+fwupdmgr refresh --force
+fwupdmgr update
+
+sudo lsusb
+fwupdmgr -h
+fwupdmgr get-updates
+lspci
+lsusb
+sudo ufw status 
+sudo aa-status
+sudo apt install apparmor-profiles apparmor-profiles-extra
+cat /etc/apparmor.d/usr.bin.firefox
+z /etc/apparmor.d/
+ll
+cat firefox 
+sudo aa-enforce --help
+ll
+sudo aa-enforce /etc/apparmor.d/firefox 
+man aa-audit 
+man apparmor 
+sudo aa-unconfined /etc/apparmor.d/firefox
+sudo aa-enforce --help
+sudo aa-complain /etc/apparmor.d/firefox
+cat /etc/apparmor.d/firefox
+eval -- $'# Enable LVFS testing repository\nfwupdmgr enable-remote lvfs-testing\n\n# Refresh and try again\nfwupdmgr refresh --force\nfwupdmgr update\n'
+sudo lsusb
+fwupdmgr -h
+fwupdmgr get-updates
+lspci
+lsusb
+sudo ufw status 
+sudo aa-status
+sudo apt install apparmor-profiles apparmor-profiles-extra
+cat /etc/apparmor.d/usr.bin.firefox
+z /etc/apparmor.d/
+ll
+cat firefox 
+sudo aa-enforce --help
+ll
+sudo aa-enforce /etc/apparmor.d/firefox 
+man aa-audit 
+man apparmor 
+sudo aa-unconfined /etc/apparmor.d/firefox
+sudo aa-enforce --help
+sudo aa-complain /etc/apparmor.d/firefox
+cat /etc/apparmor.d/firefox
+ll distro_images/
+z distro_images/
+rm -rf nixos-graphical-25.11.5776.6c5e707c6b53-x86_64-linux.iso 
+ll
+mv ~/Downloads/archlinux-x86_64.iso .
+lla
+z
+z .pdrx/
+pdrx sync
+kew
+z
+sudo systemctl stop snapd
+sudo snap remove $(snap list | awk '!/^Name|^core|^snapd/ {print $1}')
+sudo apt purge -y snapd gnome-software-plugin-snap
+sudo updatedb -v
+ll
+rm -rf snap/
+ll
+locate snap
+sudo rm -rf /snap
+sudo rm -rf /var/snap
+sudo rm -rf /var/lib/snapd
+sudo snap list
+lsblk
+du
+du -Th
+du -h
+sudo reboot
