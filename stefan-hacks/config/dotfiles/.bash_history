@@ -796,3 +796,87 @@ lla
 gitup
 nvim README.md
 gitup
+z .pdrx/
+pdrx -h
+pdrx search cowsay
+pdrx init
+pdrx status
+pdrx install cowsay
+cowsay -v
+cowsay --version
+cowsay hello
+cowsay -h
+man pdrx
+pdrx init
+pdrx status
+pdrx remove cowsay
+which cowsay
+pdrx install cowsay
+pdrx list
+cowsay hello
+pdrx remove cowsay
+pdrx sync
+pdrx sync-desktop
+pdrx backup test
+pdrx generations
+pdrx clean
+pdrx clean 2
+pdrx generations
+pdrx update && pdrx upgrade
+gitup
+pdrx init
+pdrx status
+pdrx install cowsay
+cowsay -v
+cowsay --version
+cowsay hello
+cowsay -h
+man pdrx
+pdrx init
+pdrx status
+pdrx remove cowsay
+which cowsay
+pdrx install cowsay
+pdrx list
+cowsay hello
+pdrx remove cowsay
+pdrx sync
+pdrx sync-desktop
+pdrx backup test
+pdrx generations
+pdrx clean
+pdrx clean 2
+pdrx generations
+pdrx update && pdrx upgrade
+gitup
+z .pdrx/
+pdrx -h
+pdrx search cowsay
+pdrx -h
+z Downloads/
+ll
+z
+z Pictures/Screenshots/
+ll
+mv 'Screenshot From 2026-02-17 14-34-05.png' tool-preview.png
+mv tool-preview.png ~/gitprojects/tools/pdrx/
+z
+z gitprojects/tools/pdrx/
+ll
+gitup
+pdrx -h
+z Downloads/
+ll
+z
+z Pictures/Screenshots/
+ll
+mv 'Screenshot From 2026-02-17 14-34-05.png' tool-preview.png
+mv tool-preview.png ~/gitprojects/tools/pdrx/
+z
+z gitprojects/tools/pdrx/
+ll
+gitup
+curl -fsSL https://raw.githubusercontent.com/kbwhodat/gonwatch/main/install.sh | bash
+gonwatch
+curl -fsSL https://raw.githubusercontent.com/kbwhodat/gonwatch/main/install.sh | bash
+gonwatch
