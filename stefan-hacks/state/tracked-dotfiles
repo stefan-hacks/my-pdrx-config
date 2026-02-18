@@ -69,3 +69,4 @@ fresh_debian_setup/fresh_setup.sh
 fresh_debian_setup/QUICK_REFERENCE.md
 scripts/file_organizer.sh
 scripts/fresh_setup.sh
+fingerprint-840g8-debian13.md
