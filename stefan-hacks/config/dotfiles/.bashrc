@@ -156,6 +156,3 @@ export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
 [[ ! ${BLE_VERSION-} ]] || ble-attach
-
-# Added by pdrx
-export PATH="$PATH:$HOME/.local/bin"

@@ -1056,3 +1056,120 @@ du
 du -Th
 du -h
 sudo reboot
+z .pdrx/
+pdrx init
+pdrx sync
+pdrx list
+lta stefan-hacks/
+pdrx backup stefan-hacks
+pdrx sync-desktop
+pdrx list
+lla
+z stefan-hacks/
+lta
+cat config/packages.conf 
+nvim config/packages.conf 
+z
+z gitprojects/tools/pdrx/
+gitup
+rm -rf .local/bin/pdrx
+pdrx --install
+rm -rf ~/.local/bin/pdrx
+pdrx --install
+lla
+cp pdrx ~/.local/bin/
+./install_manpage.sh
+ll /home/stefan-hacks/.local/share/man/man1/
+man pdrx
+z
+z .pdrx/
+pdrx init
+pdrx sync
+cat /home/stefan-hacks/.pdrx/stefan-hacks/config/packages.conf
+gitup
+pdrx -h
+gitup
+z
+rm -rf ~/.local/bin/pdrx
+z pdrx/
+z
+z gitprojects/tools/pdrx/
+gitup
+brew tap stefan-hacks/pdrx https://github.com/stefan-hacks/pdrx
+brew install pdrx
+lla
+lta Formula/
+git tag v1.4.8
+git push origin v1.4.8
+gitup
+brew tap stefan-hacks/pdrx https://github.com/stefan-hacks/pdrx
+brew install pdrx
+
+gitup
+brew update
+brew install pdrx
+z
+z .pdrx/
+pdrx -h
+nvim ~/.bashrc
+brew remove pdrx
+brew install pdrx
+tail ~/.bashrc
+pdrx -h
+z .pdrx/
+pdrx init
+pdrx sync
+pdrx list
+lta stefan-hacks/
+pdrx backup stefan-hacks
+pdrx sync-desktop
+pdrx list
+lla
+z stefan-hacks/
+lta
+cat config/packages.conf 
+nvim config/packages.conf 
+z
+z gitprojects/tools/pdrx/
+gitup
+rm -rf .local/bin/pdrx
+pdrx --install
+rm -rf ~/.local/bin/pdrx
+pdrx --install
+lla
+cp pdrx ~/.local/bin/
+./install_manpage.sh
+ll /home/stefan-hacks/.local/share/man/man1/
+man pdrx
+z
+z .pdrx/
+pdrx init
+pdrx sync
+cat /home/stefan-hacks/.pdrx/stefan-hacks/config/packages.conf
+gitup
+pdrx -h
+gitup
+z
+rm -rf ~/.local/bin/pdrx
+z pdrx/
+z
+z gitprojects/tools/pdrx/
+gitup
+eval -- $'brew tap stefan-hacks/pdrx https://github.com/stefan-hacks/pdrx\nbrew install pdrx'
+lla
+lta Formula/
+git tag v1.4.8
+git push origin v1.4.8
+gitup
+eval -- $'brew tap stefan-hacks/pdrx https://github.com/stefan-hacks/pdrx\nbrew install pdrx\n'
+gitup
+brew update
+brew install pdrx
+z
+z .pdrx/
+pdrx -h
+nvim ~/.bashrc
+brew remove pdrx
+brew install pdrx
+tail ~/.bashrc
+pdrx -h
