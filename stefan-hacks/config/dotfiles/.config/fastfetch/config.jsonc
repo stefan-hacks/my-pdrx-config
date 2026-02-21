@@ -3,7 +3,7 @@
     "logo": {
         "source": "$HOME/Pictures/orange_hacker.png", // Absolute path to your image
         "type": "auto",                     // Automatically detects kitty, sixel, iterm, etc.
-        "height": 20,                       // Height in terminal character cells
+        "height": 25,                       // Height in terminal character cells
         // "width": 36,                        // Width in terminal character cells
         "preserveAspectRatio": true,        // Prevents stretching if dimensions change
         "position": "left",                 // Options: left, right, top, bottom
