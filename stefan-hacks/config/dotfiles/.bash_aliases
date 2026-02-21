@@ -41,10 +41,18 @@ alias cpv='rsync -avh --info=progress2'
 #   -------------------------------
 
 # cd
-alias ..="cd .."
-alias ..2="cd ../../"
-alias ..3="cd ../../../"
-alias ..4="cd ../../../../"
+cd() {
+  if [[ "$1" =~ ^-[0-9]+$ ]]; then
+    local n=${1#-}
+    local path=""
+    for ((i = 0; i < n; i++)); do
+      path+="../"
+    done
+    builtin cd "$path"
+  else
+    builtin cd "$@"
+  fi
+}
 
 #   -------------------------------
 # 4. COLOR
