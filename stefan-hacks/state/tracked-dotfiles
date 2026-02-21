@@ -57,7 +57,6 @@
 .config/wezterm/wezterm.lua
 .config/yazi/theme.toml
 .config/zellij/config.kdl
-.bash_history
 .bash_aliases
 .bashrc
 .blerc
@@ -70,3 +69,4 @@ fresh_debian_setup/QUICK_REFERENCE.md
 scripts/file_organizer.sh
 scripts/fresh_setup.sh
 fingerprint-840g8-debian13.md
+kubernetes_setup.md
