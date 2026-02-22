@@ -106,3 +106,15 @@ cat firefox/z2s656u9.default-esr/extension-preferences.json
 z
 cat /var/log/syslog | fzf
 cat /var/log/lastlog | fzf
+z .pdrx/
+gitup
+z .pdrx/
+gitup
+cat kubernetes_setup.md
+cheat ssh-keygen
+ll
+cat kubernetes_setup.md 
+ssh jumpbox@localhost -p 3031
+ll
+cat kubernetes_setup.md 
+ssh jumpbox@localhost -p 3031
