@@ -837,7 +837,7 @@ last-folder-path='/home/stefan-hacks'
 last-folder-path='/home/stefan-hacks/Pictures'
 
 [org/gnome/portal/filechooser/org.gnome.World.PikaBackup]
-last-folder-path='/media/stefan-hacks/external_backup/backup-ghost-stefan-hacks'
+last-folder-path='/media/stefan-hacks/external_backups'
 
 [org/gnome/portal/filechooser/org.keepassxc.KeePassXC]
 last-folder-path='/home/h4ck3r/keepass'
