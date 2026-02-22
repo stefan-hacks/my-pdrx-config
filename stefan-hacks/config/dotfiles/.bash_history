@@ -118,3 +118,17 @@ ssh jumpbox@localhost -p 3031
 ll
 cat kubernetes_setup.md 
 ssh jumpbox@localhost -p 3031
+z .pdrx/
+alias update
+update
+pdrx sync && pdrx sync-desktop
+gitup
+z
+sudo reboot
+z .pdrx/
+alias update
+update
+pdrx sync && pdrx sync-desktop
+gitup
+z
+sudo reboot
