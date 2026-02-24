@@ -1,5 +1,7 @@
 [Default Applications]
 application/vnd.debian.binary-package=gdebi.desktop
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=org.onlyoffice.desktopeditors.desktop
 
 [Added Associations]
 application/vnd.debian.binary-package=gdebi.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=org.onlyoffice.desktopeditors.desktop;
