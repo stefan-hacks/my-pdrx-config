@@ -1,0 +1,6 @@
+org.gnome.Contacts did-initial-setup false
+org.gnome.Contacts sort-on-surname false
+org.gnome.Contacts window-fullscreen false
+org.gnome.Contacts window-height 600
+org.gnome.Contacts window-maximized false
+org.gnome.Contacts window-width 800

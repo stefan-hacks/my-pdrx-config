@@ -1,0 +1,2 @@
+org.gnome.system.proxy.https host ''
+org.gnome.system.proxy.https port 0

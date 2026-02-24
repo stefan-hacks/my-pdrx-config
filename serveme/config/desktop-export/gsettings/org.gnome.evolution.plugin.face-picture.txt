@@ -1,0 +1,1 @@
+org.gnome.evolution.plugin.face-picture insert-face-picture false

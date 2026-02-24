@@ -1,0 +1,75 @@
+[org/gnome/control-center]
+last-panel='power'
+window-state=(980, 640, false)
+
+[org/gnome/desktop/app-folders]
+folder-children=['System', 'Utilities', 'YaST', 'Pardus']
+
+[org/gnome/desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/System]
+apps=['nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.DiskUtility.desktop', 'im-config.desktop', 'org.gnome.Logs.desktop', 'org.freedesktop.MalcontentControl.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.SystemMonitor.desktop']
+name='X-GNOME-Shell-System.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/Utilities]
+apps=['org.gnome.Connections.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Loupe.desktop', 'org.gnome.seahorse.Application.desktop']
+name='X-GNOME-Shell-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'us')]
+
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
+show-battery-percentage=true
+
+[org/gnome/desktop/notifications]
+application-children=['org-gnome-software']
+
+[org/gnome/desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+
+[org/gnome/desktop/session]
+idle-delay=uint32 900
+
+[org/gnome/desktop/wm/preferences]
+button-layout='close,minimize,maximize:appmenu'
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+[org/gnome/nautilus/preferences]
+migrated-gtk-settings=true
+
+[org/gnome/settings-daemon/plugins/media-keys]
+screen-brightness-down=['<Ctrl><Super>Down']
+screen-brightness-up=['<Ctrl><Super>Up']
+
+[org/gnome/settings-daemon/plugins/power]
+power-button-action='interactive'
+sleep-inactive-ac-type='nothing'
+sleep-inactive-battery-timeout=900
+
+[org/gnome/shell]
+favorite-apps=['org.gnome.Terminal.desktop', 'firefox-esr.desktop', 'org.gnome.Evolution.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'org.gnome.TextEditor.desktop', 'org.gnome.Calculator.desktop', 'yelp.desktop']
+welcome-dialog-last-shown-version='48.7'
+
+[org/gnome/shell/world-clocks]
+locations=@av []
+
+[org/gnome/software]
+check-timestamp=int64 1771944857
+first-run=false
+
+[org/gtk/gtk4/settings/file-chooser]
+show-hidden=false
+sort-directories-first=false

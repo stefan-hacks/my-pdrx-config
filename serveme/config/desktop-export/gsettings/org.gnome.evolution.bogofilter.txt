@@ -1,0 +1,2 @@
+org.gnome.evolution.bogofilter command ''
+org.gnome.evolution.bogofilter utf8-for-spam-filter true

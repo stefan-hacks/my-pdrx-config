@@ -1,0 +1,6 @@
+org.gnome.desktop.media-handling automount true
+org.gnome.desktop.media-handling automount-open true
+org.gnome.desktop.media-handling autorun-never true
+org.gnome.desktop.media-handling autorun-x-content-ignore @as []
+org.gnome.desktop.media-handling autorun-x-content-open-folder @as []
+org.gnome.desktop.media-handling autorun-x-content-start-app ['x-content/unix-software', 'x-content/ostree-repository']

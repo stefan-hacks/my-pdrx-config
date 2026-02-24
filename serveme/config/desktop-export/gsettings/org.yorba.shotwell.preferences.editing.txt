@@ -1,0 +1,2 @@
+org.yorba.shotwell.preferences.editing external-photo-editor ''
+org.yorba.shotwell.preferences.editing external-raw-editor ''
