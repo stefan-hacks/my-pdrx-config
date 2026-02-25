@@ -1,0 +1,4 @@
+org.yorba.shotwell.preferences.slideshow delay 3.0
+org.yorba.shotwell.preferences.slideshow show-title false
+org.yorba.shotwell.preferences.slideshow transition-delay 0.29999999999999999
+org.yorba.shotwell.preferences.slideshow transition-effect-id ''

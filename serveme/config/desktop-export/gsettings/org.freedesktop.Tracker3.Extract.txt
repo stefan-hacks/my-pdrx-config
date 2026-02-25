@@ -1,0 +1,3 @@
+org.freedesktop.Tracker3.Extract max-bytes 1048576
+org.freedesktop.Tracker3.Extract text-allowlist ['*.txt', '*.md', '*.mdwn']
+org.freedesktop.Tracker3.Extract wait-for-miner-fs false

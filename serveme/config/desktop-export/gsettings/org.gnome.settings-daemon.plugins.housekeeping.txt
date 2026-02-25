@@ -1,0 +1,5 @@
+org.gnome.settings-daemon.plugins.housekeeping free-percent-notify 0.050000000000000003
+org.gnome.settings-daemon.plugins.housekeeping free-percent-notify-again 0.01
+org.gnome.settings-daemon.plugins.housekeeping free-size-gb-no-notify 1
+org.gnome.settings-daemon.plugins.housekeeping ignore-paths @as []
+org.gnome.settings-daemon.plugins.housekeeping min-notify-period 10

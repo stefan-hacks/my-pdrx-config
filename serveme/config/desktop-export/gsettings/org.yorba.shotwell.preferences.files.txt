@@ -1,0 +1,7 @@
+org.yorba.shotwell.preferences.files auto-import false
+org.yorba.shotwell.preferences.files commit-metadata false
+org.yorba.shotwell.preferences.files directory-pattern ''
+org.yorba.shotwell.preferences.files directory-pattern-custom ''
+org.yorba.shotwell.preferences.files import-dir ''
+org.yorba.shotwell.preferences.files raw-developer-default 'CAMERA'
+org.yorba.shotwell.preferences.files use-lowercase-filenames false

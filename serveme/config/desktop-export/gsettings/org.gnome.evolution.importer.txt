@@ -1,0 +1,2 @@
+org.gnome.evolution.importer gnome-calendar-done-calendar false
+org.gnome.evolution.importer gnome-calendar-done-tasks false

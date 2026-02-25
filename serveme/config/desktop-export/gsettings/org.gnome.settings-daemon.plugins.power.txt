@@ -1,0 +1,9 @@
+org.gnome.settings-daemon.plugins.power ambient-enabled true
+org.gnome.settings-daemon.plugins.power idle-brightness 30
+org.gnome.settings-daemon.plugins.power idle-dim true
+org.gnome.settings-daemon.plugins.power power-button-action 'interactive'
+org.gnome.settings-daemon.plugins.power power-saver-profile-on-low-battery true
+org.gnome.settings-daemon.plugins.power sleep-inactive-ac-timeout 900
+org.gnome.settings-daemon.plugins.power sleep-inactive-ac-type 'nothing'
+org.gnome.settings-daemon.plugins.power sleep-inactive-battery-timeout 900
+org.gnome.settings-daemon.plugins.power sleep-inactive-battery-type 'suspend'

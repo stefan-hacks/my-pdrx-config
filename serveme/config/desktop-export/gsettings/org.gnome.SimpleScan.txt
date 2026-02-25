@@ -1,0 +1,17 @@
+org.gnome.SimpleScan brightness 0
+org.gnome.SimpleScan contrast 0
+org.gnome.SimpleScan document-type 'photo'
+org.gnome.SimpleScan jpeg-quality 75
+org.gnome.SimpleScan page-delay 1000
+org.gnome.SimpleScan page-side 'both'
+org.gnome.SimpleScan paper-height 0
+org.gnome.SimpleScan paper-width 0
+org.gnome.SimpleScan photo-dpi 300
+org.gnome.SimpleScan postproc-arguments ''
+org.gnome.SimpleScan postproc-enabled false
+org.gnome.SimpleScan postproc-keep-original false
+org.gnome.SimpleScan postproc-script ''
+org.gnome.SimpleScan save-directory ''
+org.gnome.SimpleScan save-format 'application/pdf'
+org.gnome.SimpleScan selected-device ''
+org.gnome.SimpleScan text-dpi 150

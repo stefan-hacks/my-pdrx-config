@@ -1,0 +1,4 @@
+org.gnome.clocks alarms @aa{sv} []
+org.gnome.clocks geolocation true
+org.gnome.clocks timers @aa{sv} []
+org.gnome.clocks world-clocks @aa{sv} []

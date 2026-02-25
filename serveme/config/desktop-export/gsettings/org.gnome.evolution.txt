@@ -1,0 +1,2 @@
+org.gnome.evolution disabled-eplugins @as []
+org.gnome.evolution version ''

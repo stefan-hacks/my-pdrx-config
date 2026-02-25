@@ -1,0 +1,8 @@
+org.gnome.settings-daemon.plugins.color night-light-enabled false
+org.gnome.settings-daemon.plugins.color night-light-last-coordinates (91.0, 181.0)
+org.gnome.settings-daemon.plugins.color night-light-schedule-automatic true
+org.gnome.settings-daemon.plugins.color night-light-schedule-from 20.0
+org.gnome.settings-daemon.plugins.color night-light-schedule-to 6.0
+org.gnome.settings-daemon.plugins.color night-light-temperature uint32 2700
+org.gnome.settings-daemon.plugins.color recalibrate-display-threshold uint32 0
+org.gnome.settings-daemon.plugins.color recalibrate-printer-threshold uint32 0

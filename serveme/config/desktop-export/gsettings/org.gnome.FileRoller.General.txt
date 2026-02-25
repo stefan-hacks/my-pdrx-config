@@ -1,0 +1,3 @@
+org.gnome.FileRoller.General compression-level 'normal'
+org.gnome.FileRoller.General editors @as []
+org.gnome.FileRoller.General encrypt-header false

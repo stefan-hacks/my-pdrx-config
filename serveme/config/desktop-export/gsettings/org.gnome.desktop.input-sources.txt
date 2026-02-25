@@ -1,0 +1,7 @@
+org.gnome.desktop.input-sources current uint32 0
+org.gnome.desktop.input-sources mru-sources @a(ss) []
+org.gnome.desktop.input-sources per-window false
+org.gnome.desktop.input-sources show-all-sources false
+org.gnome.desktop.input-sources sources [('xkb', 'us')]
+org.gnome.desktop.input-sources xkb-model 'pc105+inet'
+org.gnome.desktop.input-sources xkb-options @as []

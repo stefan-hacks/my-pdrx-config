@@ -1,0 +1,2 @@
+org.gnome.desktop.default-applications.office.tasks exec 'evolution -c tasks'
+org.gnome.desktop.default-applications.office.tasks needs-term false
