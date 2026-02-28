@@ -428,3 +428,91 @@ cd openclaw/
 ll
 ./setup-podman.sh 
 ./setup-podman.sh --quadlet
+./scripts/run-openclaw-podman.sh launch setup
+cd /tmp
+sudo -u openclaw nano /home/openclaw/.openclaw/openclaw.json
+cd -
+./scripts/run-openclaw-podman.sh launch setup
+sudo systemctl --machine openclaw@ --user start openclaw.service
+sudo systemctl --machine openclaw@ --user status openclaw.service
+sudo systemctl --machine openclaw@ --user daemon-reload
+sudo systemctl --machine openclaw@ --user status openclaw.service
+sudo systemctl --machine openclaw@ --user start openclaw.service
+systemctl --user disable --now openclaw-gateway.service
+rm -f ~/.config/systemd/user/openclaw-gateway.service
+systemctl --user daemon-reload
+ll
+cd
+rm -rf openclaw/
+ll
+rm lin_discord_token 
+rm new_discord_bot_token 
+rm oath*
+rm tele_tokenbot.md 
+rm discord_setup 
+sudo su
+sudo updatedb -v
+locate openclaw /
+podman list
+podman ps
+podman i
+podman images
+podman rmi 497344bbc353
+podman rmi 19bf7b0055ea
+podman rmi a08c488a9779
+podman ps -a
+sudo nala purge podman
+sudo updatedb -v
+locate podman /
+cd .local/share/containers/
+ll
+cd storage/
+ll
+lta overlay-containers/
+z
+z .pdrx/
+update
+update && pdrx sync && gitup
+./scripts/run-openclaw-podman.sh launch setup
+cd /tmp
+sudo -u openclaw nano /home/openclaw/.openclaw/openclaw.json
+cd -
+./scripts/run-openclaw-podman.sh launch setup
+sudo systemctl --machine openclaw@ --user start openclaw.service
+sudo systemctl --machine openclaw@ --user status openclaw.service
+sudo systemctl --machine openclaw@ --user daemon-reload
+sudo systemctl --machine openclaw@ --user status openclaw.service
+sudo systemctl --machine openclaw@ --user start openclaw.service
+eval -- $'systemctl --user disable --now openclaw-gateway.service\nrm -f ~/.config/systemd/user/openclaw-gateway.service\nsystemctl --user daemon-reload'
+ll
+cd
+rm -rf openclaw/
+ll
+rm lin_discord_token 
+rm new_discord_bot_token 
+rm oath*
+rm tele_tokenbot.md 
+rm discord_setup 
+sudo su
+sudo updatedb -v
+locate openclaw /
+podman list
+podman ps
+podman i
+podman images
+podman rmi 497344bbc353
+podman rmi 19bf7b0055ea
+podman rmi a08c488a9779
+podman ps -a
+sudo nala purge podman
+sudo updatedb -v
+locate podman /
+cd .local/share/containers/
+ll
+cd storage/
+ll
+lta overlay-containers/
+z
+z .pdrx/
+update
+update && pdrx sync && gitup
