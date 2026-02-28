@@ -516,3 +516,6 @@ z
 z .pdrx/
 update
 update && pdrx sync && gitup
+z .pdrx/
+update && pdrx sync && gitup
+sudo reboot
