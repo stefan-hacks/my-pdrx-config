@@ -1,4 +1,0 @@
-org.gnome.FileRoller.UI sidebar-width 200
-org.gnome.FileRoller.UI view-sidebar false
-org.gnome.FileRoller.UI window-height 480
-org.gnome.FileRoller.UI window-width 600

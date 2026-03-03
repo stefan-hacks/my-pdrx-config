@@ -1,2 +1,0 @@
-org.gnome.desktop.thumbnailers disable @as []
-org.gnome.desktop.thumbnailers disable-all false

@@ -1,2 +1,0 @@
-org.gnome.system.proxy.socks host ''
-org.gnome.system.proxy.socks port 0

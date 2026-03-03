@@ -1,4 +1,0 @@
-org.gnome.desktop.peripherals.trackball accel-profile 'default'
-org.gnome.desktop.peripherals.trackball middle-click-emulation false
-org.gnome.desktop.peripherals.trackball scroll-wheel-emulation-button 0
-org.gnome.desktop.peripherals.trackball scroll-wheel-emulation-button-lock false

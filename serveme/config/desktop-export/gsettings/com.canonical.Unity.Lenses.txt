@@ -1,7 +1,0 @@
-com.canonical.Unity.Lenses always-search ['applications.scope', 'music.scope', 'videos.scope', 'files.scope']
-com.canonical.Unity.Lenses disabled-scopes @as []
-com.canonical.Unity.Lenses hidden-scopes @as []
-com.canonical.Unity.Lenses home-lens-default-view ['applications.scope', 'files.scope']
-com.canonical.Unity.Lenses home-lens-priority ['files.scope', 'music.scope']
-com.canonical.Unity.Lenses locked-scopes @as []
-com.canonical.Unity.Lenses remote-content-search 'none'

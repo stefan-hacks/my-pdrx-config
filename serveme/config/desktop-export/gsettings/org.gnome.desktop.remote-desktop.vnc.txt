@@ -1,6 +1,0 @@
-org.gnome.desktop.remote-desktop.vnc auth-method 'prompt'
-org.gnome.desktop.remote-desktop.vnc enable false
-org.gnome.desktop.remote-desktop.vnc negotiate-port false
-org.gnome.desktop.remote-desktop.vnc port uint16 5900
-org.gnome.desktop.remote-desktop.vnc screen-share-mode 'mirror-primary'
-org.gnome.desktop.remote-desktop.vnc view-only true

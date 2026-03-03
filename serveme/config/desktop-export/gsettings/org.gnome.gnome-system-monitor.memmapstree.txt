@@ -1,2 +1,0 @@
-org.gnome.gnome-system-monitor.memmapstree sort-col 0
-org.gnome.gnome-system-monitor.memmapstree sort-order 0

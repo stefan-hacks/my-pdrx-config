@@ -1,1 +1,0 @@
-org.gnome.portal.filechooser last-folder-path ''

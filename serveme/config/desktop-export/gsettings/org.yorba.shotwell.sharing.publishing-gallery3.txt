@@ -1,7 +1,0 @@
-org.yorba.shotwell.sharing.publishing-gallery3 api-key ''
-org.yorba.shotwell.sharing.publishing-gallery3 last-album ''
-org.yorba.shotwell.sharing.publishing-gallery3 scaling-constraint-id 0
-org.yorba.shotwell.sharing.publishing-gallery3 scaling-pixels 1024
-org.yorba.shotwell.sharing.publishing-gallery3 strip-metadata false
-org.yorba.shotwell.sharing.publishing-gallery3 url ''
-org.yorba.shotwell.sharing.publishing-gallery3 username ''

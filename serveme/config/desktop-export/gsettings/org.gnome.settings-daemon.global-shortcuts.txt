@@ -1,1 +1,0 @@
-org.gnome.settings-daemon.global-shortcuts applications @as []

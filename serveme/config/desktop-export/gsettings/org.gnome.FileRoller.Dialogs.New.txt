@@ -1,5 +1,0 @@
-org.gnome.FileRoller.Dialogs.New default-extension '.tar.gz'
-org.gnome.FileRoller.Dialogs.New encrypt-header false
-org.gnome.FileRoller.Dialogs.New expand-options false
-org.gnome.FileRoller.Dialogs.New other-options false
-org.gnome.FileRoller.Dialogs.New volume-size 0

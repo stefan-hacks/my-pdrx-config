@@ -1,2 +1,0 @@
-org.gnome.evolution.plugin.external-editor command 'gedit'
-org.gnome.evolution.plugin.external-editor launch-on-key-press false

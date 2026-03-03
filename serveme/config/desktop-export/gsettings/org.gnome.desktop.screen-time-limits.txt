@@ -1,4 +1,0 @@
-org.gnome.desktop.screen-time-limits daily-limit-enabled false
-org.gnome.desktop.screen-time-limits daily-limit-seconds uint32 28800
-org.gnome.desktop.screen-time-limits grayscale true
-org.gnome.desktop.screen-time-limits history-enabled true

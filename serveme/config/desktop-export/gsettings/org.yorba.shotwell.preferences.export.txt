@@ -1,6 +1,0 @@
-org.yorba.shotwell.preferences.export constraint 'ORIGINAL'
-org.yorba.shotwell.preferences.export export-format-mode 'CURRENT'
-org.yorba.shotwell.preferences.export export-metadata true
-org.yorba.shotwell.preferences.export photo-file-format 'JFIF'
-org.yorba.shotwell.preferences.export quality 'HIGH'
-org.yorba.shotwell.preferences.export scale 1200

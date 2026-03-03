@@ -1,5 +1,0 @@
-org.gnome.seahorse last-search-servers @as []
-org.gnome.seahorse last-search-text ''
-org.gnome.seahorse server-auto-publish false
-org.gnome.seahorse server-auto-retrieve false
-org.gnome.seahorse server-publish-to ''

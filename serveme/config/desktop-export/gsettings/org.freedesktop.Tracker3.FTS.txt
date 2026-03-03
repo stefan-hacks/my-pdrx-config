@@ -1,3 +1,0 @@
-org.freedesktop.Tracker3.FTS enable-stemmer false
-org.freedesktop.Tracker3.FTS enable-unaccent true
-org.freedesktop.Tracker3.FTS ignore-numbers true

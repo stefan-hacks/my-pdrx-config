@@ -1,8 +1,0 @@
-org.gnome.evolution.plugin.autocontacts addressbook-source ''
-org.gnome.evolution.plugin.autocontacts auto-sync-gaim false
-org.gnome.evolution.plugin.autocontacts enable false
-org.gnome.evolution.plugin.autocontacts file-under-as-first-last false
-org.gnome.evolution.plugin.autocontacts gaim-addressbook-source ''
-org.gnome.evolution.plugin.autocontacts gaim-check-interval 10
-org.gnome.evolution.plugin.autocontacts gaim-last-sync-md5 ''
-org.gnome.evolution.plugin.autocontacts gaim-last-sync-time ''

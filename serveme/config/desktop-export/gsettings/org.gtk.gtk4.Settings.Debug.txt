@@ -1,2 +1,0 @@
-org.gtk.gtk4.Settings.Debug enable-inspector-keybinding true
-org.gtk.gtk4.Settings.Debug inspector-warning true

@@ -1,3 +1,0 @@
-org.yorba.shotwell.crop-settings last-crop-height 1
-org.yorba.shotwell.crop-settings last-crop-menu-choice 1
-org.yorba.shotwell.crop-settings last-crop-width 1

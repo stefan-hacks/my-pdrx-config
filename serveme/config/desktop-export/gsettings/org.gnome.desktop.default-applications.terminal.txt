@@ -1,2 +1,0 @@
-org.gnome.desktop.default-applications.terminal exec 'x-terminal-emulator'
-org.gnome.desktop.default-applications.terminal exec-arg '-e'

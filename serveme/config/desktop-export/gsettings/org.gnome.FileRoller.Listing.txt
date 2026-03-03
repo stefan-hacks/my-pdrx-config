@@ -1,8 +1,0 @@
-org.gnome.FileRoller.Listing list-mode 'as-folder'
-org.gnome.FileRoller.Listing name-column-width 250
-org.gnome.FileRoller.Listing show-path true
-org.gnome.FileRoller.Listing show-size true
-org.gnome.FileRoller.Listing show-time true
-org.gnome.FileRoller.Listing show-type true
-org.gnome.FileRoller.Listing sort-method 'name'
-org.gnome.FileRoller.Listing sort-type 'ascending'
