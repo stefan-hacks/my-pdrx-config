@@ -9,9 +9,9 @@ org.gnome.desktop.screensaver logout-delay uint32 7200
 org.gnome.desktop.screensaver logout-enabled false
 org.gnome.desktop.screensaver picture-opacity 100
 org.gnome.desktop.screensaver picture-options 'zoom'
-org.gnome.desktop.screensaver picture-uri 'file:///usr/share/backgrounds/gnome/geometrics-l.jxl'
-org.gnome.desktop.screensaver primary-color '#26a269'
-org.gnome.desktop.screensaver secondary-color '#000000'
+org.gnome.desktop.screensaver picture-uri 'file:///home/stefan-hacks/.local/share/backgrounds/2026-03-11-08-55-30-wallpaper_024.jpg'
+org.gnome.desktop.screensaver primary-color '#000000000000'
+org.gnome.desktop.screensaver secondary-color '#000000000000'
 org.gnome.desktop.screensaver show-full-name-in-top-bar true
 org.gnome.desktop.screensaver status-message-enabled true
 org.gnome.desktop.screensaver user-switch-enabled true
