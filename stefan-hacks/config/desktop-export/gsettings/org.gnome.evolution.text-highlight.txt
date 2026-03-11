@@ -1,0 +1,2 @@
+org.gnome.evolution.text-highlight enabled true
+org.gnome.evolution.text-highlight theme ''

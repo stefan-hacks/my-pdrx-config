@@ -1,0 +1,2 @@
+org.gnome.evolution.plugin.prefer-plain mode 'normal'
+org.gnome.evolution.plugin.prefer-plain show-suppressed true

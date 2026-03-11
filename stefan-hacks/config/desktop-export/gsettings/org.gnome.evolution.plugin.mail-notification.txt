@@ -1,0 +1,10 @@
+org.gnome.evolution.plugin.mail-notification notify-dbus-enabled true
+org.gnome.evolution.plugin.mail-notification notify-not-accounts ['']
+org.gnome.evolution.plugin.mail-notification notify-only-inbox true
+org.gnome.evolution.plugin.mail-notification notify-sound-beep false
+org.gnome.evolution.plugin.mail-notification notify-sound-enabled true
+org.gnome.evolution.plugin.mail-notification notify-sound-file ''
+org.gnome.evolution.plugin.mail-notification notify-sound-play-file false
+org.gnome.evolution.plugin.mail-notification notify-sound-use-theme true
+org.gnome.evolution.plugin.mail-notification notify-status-enabled true
+org.gnome.evolution.plugin.mail-notification notify-status-notification true

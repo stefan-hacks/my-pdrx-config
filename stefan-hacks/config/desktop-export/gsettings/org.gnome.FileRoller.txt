@@ -1,0 +1,42 @@
+org.gnome.FileRoller.Dialogs.Add current-folder ''
+org.gnome.FileRoller.Dialogs.Add exclude-files ''
+org.gnome.FileRoller.Dialogs.Add exclude-folders ''
+org.gnome.FileRoller.Dialogs.Add filename ''
+org.gnome.FileRoller.Dialogs.Add height 800
+org.gnome.FileRoller.Dialogs.Add include-files ''
+org.gnome.FileRoller.Dialogs.Add no-symlinks true
+org.gnome.FileRoller.Dialogs.Add recursive true
+org.gnome.FileRoller.Dialogs.Add selected-files @as []
+org.gnome.FileRoller.Dialogs.Add update false
+org.gnome.FileRoller.Dialogs.Add width 1000
+org.gnome.FileRoller.Dialogs.Extract height 800
+org.gnome.FileRoller.Dialogs.Extract recreate-folders true
+org.gnome.FileRoller.Dialogs.Extract skip-newer false
+org.gnome.FileRoller.Dialogs.Extract width 1000
+org.gnome.FileRoller.Dialogs.LastOutput height 500
+org.gnome.FileRoller.Dialogs.LastOutput width 1000
+org.gnome.FileRoller.Dialogs.New default-extension '.tar.gz'
+org.gnome.FileRoller.Dialogs.New encrypt-header false
+org.gnome.FileRoller.Dialogs.New expand-options false
+org.gnome.FileRoller.Dialogs.New other-options false
+org.gnome.FileRoller.Dialogs.New volume-size 0
+org.gnome.FileRoller.FileSelector show-hidden false
+org.gnome.FileRoller.FileSelector sidebar-size -1
+org.gnome.FileRoller.FileSelector sort-method 'name'
+org.gnome.FileRoller.FileSelector sort-type 'ascending'
+org.gnome.FileRoller.FileSelector window-size (-1, -1)
+org.gnome.FileRoller.General compression-level 'normal'
+org.gnome.FileRoller.General editors @as []
+org.gnome.FileRoller.General encrypt-header false
+org.gnome.FileRoller.Listing list-mode 'as-folder'
+org.gnome.FileRoller.Listing name-column-width 250
+org.gnome.FileRoller.Listing show-path true
+org.gnome.FileRoller.Listing show-size true
+org.gnome.FileRoller.Listing show-time true
+org.gnome.FileRoller.Listing show-type true
+org.gnome.FileRoller.Listing sort-method 'name'
+org.gnome.FileRoller.Listing sort-type 'ascending'
+org.gnome.FileRoller.UI sidebar-width 200
+org.gnome.FileRoller.UI view-sidebar false
+org.gnome.FileRoller.UI window-height 480
+org.gnome.FileRoller.UI window-width 600

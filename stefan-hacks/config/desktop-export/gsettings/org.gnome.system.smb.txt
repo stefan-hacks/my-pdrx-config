@@ -1,0 +1,2 @@
+org.gnome.system.smb display-mode 'disabled'
+org.gnome.system.smb workgroup ''

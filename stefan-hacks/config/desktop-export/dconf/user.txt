@@ -1,0 +1,434 @@
+[com/mattjakeman/ExtensionManager]
+is-maximized=false
+
+[org/gnome/GPaste]
+growing-lines=true
+primary-to-history=true
+synchronize-clipboards=true
+track-extension-state=true
+trim-items=true
+
+[org/gnome/GWeather4]
+temperature-unit='centigrade'
+
+[org/gnome/Weather]
+locations=[<(uint32 2, <('Rio de Janeiro', 'SBRJ', true, [(-0.39968039870670141, -0.75340046626198298)], [(-0.39968039870670141, -0.75456400746111763)])>)>]
+window-height=540
+window-maximized=false
+window-width=519
+
+[org/gnome/clocks]
+world-clocks=[{'location': <(uint32 2, <('Rio de Janeiro', 'SBRJ', true, [(-0.39968039870670141, -0.75340046626198298)], [(-0.39968039870670141, -0.75456400746111763)])>)>}, {'location': <(uint32 2, <('London', 'EGWU', true, [(0.89971722940307675, -0.007272211034407213)], [(0.89884456477707964, -0.0020362232784242244)])>)>}, {'location': <(uint32 2, <('Paris', 'LFPB', true, [(0.85462956287765413, 0.042760566673861078)], [(0.8528842336256599, 0.040724343395436846)])>)>}, {'location': <(uint32 2, <('Mexico City', 'MMMX', true, [(0.33917564548646723, -1.7296212887263802)], [(0.33919020153242879, -1.7302951778038682)])>)>}, {'location': <(uint32 2, <('New York', 'KNYC', true, [(0.71180344078725644, -1.2909618758762367)], [(0.71059804659265924, -1.2916478949920254)])>)>}, {'location': <(uint32 2, <('Los Angeles', 'KCQT', true, [(0.59370283970450188, -2.0644336110828618)], [(0.59432360095955872, -2.063741622941031)])>)>}, {'location': <(uint32 2, <('Tokyo', 'RJTI', true, [(0.62191898430954862, 2.4408429589140699)], [(0.62282074357417661, 2.4391218722853854)])>)>}, {'location': <(uint32 2, <('Jakarta', 'WIII', true, [(-0.10675597839808398, 1.8613936472519526)], [(-0.10776437728000876, 1.8645255358749011)])>)>}]
+
+[org/gnome/clocks/state/window]
+maximized=false
+panel-id='world'
+size=(870, 690)
+
+[org/gnome/control-center]
+last-panel='keyboard'
+window-state=(980, 640, false)
+
+[org/gnome/desktop/app-folders]
+folder-children=['System', 'Utilities', 'YaST', 'Pardus']
+
+[org/gnome/desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/System]
+apps=['nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.DiskUtility.desktop', 'im-config.desktop', 'org.gnome.Logs.desktop', 'org.freedesktop.MalcontentControl.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.SystemMonitor.desktop']
+name='X-GNOME-Shell-System.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/Utilities]
+apps=['org.gnome.Connections.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Loupe.desktop', 'org.gnome.seahorse.Application.desktop']
+name='X-GNOME-Shell-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/gnome/geometrics-l.jxl'
+picture-uri-dark='file:///usr/share/backgrounds/gnome/geometrics-d.jxl'
+primary-color='#26a269'
+secondary-color='#000000'
+
+[org/gnome/desktop/input-sources]
+mru-sources=[('xkb', 'us'), ('xkb', 'gb')]
+sources=[('xkb', 'gb'), ('xkb', 'us')]
+
+[org/gnome/desktop/interface]
+accent-color='purple'
+clock-show-weekday=true
+color-scheme='prefer-dark'
+enable-animations=false
+gtk-theme='Yaru-red-dark'
+icon-theme='Yaru-red-dark'
+show-battery-percentage=true
+
+[org/gnome/desktop/notifications]
+application-children=['org-gnome-software', 'firefox-esr', 'org-chromium-chromium']
+show-banners=true
+
+[org/gnome/desktop/notifications/application/firefox-esr]
+application-id='firefox-esr.desktop'
+
+[org/gnome/desktop/notifications/application/org-chromium-chromium]
+application-id='org.chromium.Chromium.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+
+[org/gnome/desktop/peripherals/mouse]
+natural-scroll=true
+speed=1.0
+
+[org/gnome/desktop/peripherals/touchpad]
+speed=1.0
+two-finger-scrolling-enabled=true
+
+[org/gnome/desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/gnome/geometrics-l.jxl'
+primary-color='#26a269'
+secondary-color='#000000'
+
+[org/gnome/desktop/sound]
+event-sounds=true
+
+[org/gnome/desktop/wm/keybindings]
+activate-window-menu=@as []
+begin-move=@as []
+begin-resize=@as []
+cycle-group=['<Control><Alt>Escape']
+cycle-group-backward=['<Shift><Control><Alt>Escape']
+cycle-panels=@as []
+cycle-panels-backward=@as []
+move-to-monitor-left=['<Shift><Super>h']
+move-to-monitor-right=['<Shift><Super>l']
+switch-to-workspace-left=['<Alt>F11']
+switch-to-workspace-right=['<Alt>F12']
+unmaximize=@as []
+
+[org/gnome/desktop/wm/preferences]
+button-layout='close,minimize,maximize:appmenu'
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+[org/gnome/mutter]
+overlay-key='Super'
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='list-view'
+migrated-gtk-settings=true
+search-filter-time-type='last_modified'
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 550)
+initial-size-file-chooser=(890, 550)
+
+[org/gnome/portal/filechooser/org.chromium.Chromium]
+last-folder-path='/home/stefan-hacks/Documents'
+
+[org/gnome/settings-daemon/plugins/color]
+night-light-schedule-automatic=false
+
+[org/gnome/settings-daemon/plugins/media-keys]
+mic-mute=['<Alt>F8']
+screen-brightness-down=['<Ctrl><Super>Down']
+screen-brightness-up=['<Ctrl><Super>Up']
+screensaver=['<Control><Alt><Super>l']
+volume-down=['<Alt>F6']
+volume-mute=['<Alt>F5']
+volume-up=['<Alt>F7']
+
+[org/gnome/settings-daemon/plugins/power]
+power-button-action='interactive'
+
+[org/gnome/shell]
+disabled-extensions=@as []
+enabled-extensions=['Vitals@CoreCoding.com', 'appindicatorsupport@rgcjonas.gmail.com', 'clipboard-indicator@tudmotu.com', 'pomodoro-timer@Oguzhankokulu.github.com', 'quick-settings-audio-panel@rayzeq.github.io', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'openbar@neuromorph', 'quake-terminal@diegodario88.github.io', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'arcmenu@arcmenu.com', 'blur-my-shell@aunetx', 'dash-to-dock@micxgx.gmail.com', 'steal-my-focus-window@steal-my-focus-window', 'GPaste@gnome-shell-extensions.gnome.org']
+favorite-apps=['mullvad-vpn.desktop', 'kitty.desktop', 'org.gnome.Nautilus.desktop', '1password.desktop', 'net.cozic.joplin_desktop.desktop', 'firefox-esr.desktop', 'org.chromium.Chromium.desktop', 'org.onlyoffice.desktopeditors.desktop', 'com.discordapp.Discord.desktop', 'org.gnome.Geary.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.Contacts.desktop', 'org.gnome.Music.desktop', 'org.gnome.Maps.desktop', 'io.gitlab.adhami3310.Impression.desktop', 'org.qbittorrent.qBittorrent.desktop', 'org.gnome.Software.desktop', 'org.gnome.World.PikaBackup.desktop']
+welcome-dialog-last-shown-version='48.7'
+
+[org/gnome/shell/extensions/arcmenu]
+arcmenu-hotkey=['<Control>F1']
+arcmenu-hotkey-overlay-key-enabled=true
+extra-categories=[(3, true), (2, true), (0, true), (1, true), (4, true)]
+hide-overview-on-startup=true
+highlight-search-result-terms=true
+hotkey-open-primary-monitor=false
+max-search-results=10
+menu-button-icon='emblem-debian-white'
+prefs-visible-page=0
+recently-installed-apps=['org.qbittorrent.qBittorrent.desktop', 'com.github.jeromerobert.pdfarranger.desktop', 'org.onlyoffice.desktopeditors.desktop', 'mpv.desktop', 'vlc.desktop', 'guvcview.desktop', 'com.discordapp.Discord.desktop', 'org.gnome.Geary.desktop', 'org.gnome.World.PikaBackup.desktop', 'io.gitlab.adhami3310.Impression.desktop', 'io.github.realmazharhussain.GdmSettings.desktop', 'torbrowser-settings.desktop', 'torbrowser.desktop', 'net.cozic.joplin_desktop.desktop']
+runner-hotkey=['<Alt>space']
+runner-hotkey-open-primary-monitor=false
+runner-hotkey-overlay-key-enabled=false
+runner-menu-height=625
+runner-menu-width=710
+runner-position='Centered'
+runner-show-frequent-apps=true
+search-entry-border-radius=(true, 25)
+search-provider-open-windows=true
+search-provider-recent-files=true
+show-search-result-details=true
+update-notifier-project-version=70
+
+[org/gnome/shell/extensions/blur-my-shell]
+settings-version=2
+
+[org/gnome/shell/extensions/blur-my-shell/appfolder]
+brightness=0.59999999999999998
+sigma=30
+
+[org/gnome/shell/extensions/blur-my-shell/coverflow-alt-tab]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/dash-to-dock]
+blur=true
+brightness=0.59999999999999998
+pipeline='pipeline_default_rounded'
+sigma=30
+static-blur=true
+style-dash-to-dock=0
+
+[org/gnome/shell/extensions/blur-my-shell/lockscreen]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/overview]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/panel]
+blur=false
+brightness=0.59999999999999998
+pipeline='pipeline_default'
+sigma=30
+
+[org/gnome/shell/extensions/blur-my-shell/screenshot]
+pipeline='pipeline_default'
+
+[org/gnome/shell/extensions/blur-my-shell/window-list]
+brightness=0.59999999999999998
+sigma=30
+
+[org/gnome/shell/extensions/clipboard-indicator]
+clear-on-boot=true
+move-item-first=true
+notify-on-copy=true
+regex-search=true
+strip-text=true
+
+[org/gnome/shell/extensions/dash-to-dock]
+apply-custom-theme=true
+background-opacity=0.80000000000000004
+custom-theme-shrink=true
+dash-max-icon-size=38
+dock-position='BOTTOM'
+height-fraction=0.65000000000000002
+intellihide-mode='ALL_WINDOWS'
+preferred-monitor=-2
+preferred-monitor-by-connector='DP-5'
+
+[org/gnome/shell/extensions/libpanel]
+layout=[['gnome@main', 'quick-settings-audio-panel@rayzeq.github.io/main']]
+
+[org/gnome/shell/extensions/openbar]
+apply-accent-shell=true
+apply-all-shell=true
+apply-flatpak=true
+apply-gtk=true
+apply-menu-notif=true
+apply-menu-shell=true
+autohg-bar=true
+autohg-menu=true
+autotheme-dark='Dark'
+autotheme-font=true
+autotheme-light='Dark'
+autotheme-refresh=true
+bartype='Trilands'
+bcolor=['0.859', '0.627', '0.494']
+bg-change=false
+bgalpha=0.0
+bgalpha2=0.59999999999999998
+bgcolor=['0.173', '0.043', '0.106']
+bgcolor-wmax=['0.118', '0.118', '0.118']
+bgcolor2=['0.255', '0.192', '0.145']
+bgpalette=false
+bguri='file:///usr/share/backgrounds/gnome/geometrics-d.jxl'
+boxalpha=0.0
+boxcolor=['0.173', '0.043', '0.106']
+candyalpha=0.0
+count1=624250
+count10=293
+count11=99
+count12=1
+count2=176747
+count3=68530
+count4=50130
+count5=34589
+count6=33074
+count7=7315
+count8=3429
+count9=1543
+dark-bcolor=['0.859', '0.627', '0.494']
+dark-bgcolor=['0.173', '0.043', '0.106']
+dark-bgcolor-wmax=['0.118', '0.118', '0.118']
+dark-bgcolor2=['0.255', '0.192', '0.145']
+dark-bguri='file:///usr/share/backgrounds/gnome/geometrics-d.jxl'
+dark-boxcolor=['0.173', '0.043', '0.106']
+dark-hcolor=['0.604', '0.510', '0.384']
+dark-hscd-color=['0.447', '0.149', '0.271']
+dark-iscolor=['0.173', '0.043', '0.106']
+dark-mbcolor=['0.604', '0.510', '0.384']
+dark-mbgcolor=['0.125', '0.075', '0.106']
+dark-mhcolor=['0.604', '0.510', '0.384']
+dark-mscolor=['0.447', '0.149', '0.271']
+dark-mshcolor=['0.000', '0.000', '0.000']
+dark-palette1=['92', '34', '58']
+dark-palette10=['122', '84', '24']
+dark-palette11=['172', '59', '115']
+dark-palette12=['108', '105', '144']
+dark-palette2=['24', '11', '19']
+dark-palette3=['133', '67', '83']
+dark-palette4=['52', '14', '32']
+dark-palette5=['122', '62', '80']
+dark-palette6=['89', '44', '13']
+dark-palette7=['197', '130', '92']
+dark-palette8=['152', '79', '110']
+dark-palette9=['154', '130', '98']
+dark-shcolor=['0.000', '0.000', '0.000']
+dark-smbgcolor=['0.255', '0.192', '0.145']
+dark-vw-color=['0.447', '0.149', '0.271']
+dark-winbcolor=['0.447', '0.149', '0.271']
+dashdock-style='Bar'
+default-font='Sans 12'
+fgalpha=1.0
+hcolor=['0.604', '0.510', '0.384']
+hscd-color=['0.447', '0.149', '0.271']
+import-export=false
+isalpha=0.94999999999999996
+iscolor=['0.173', '0.043', '0.106']
+light-bcolor=['0.200', '0.471', '0.804']
+light-bgcolor=['0.098', '0.161', '0.278']
+light-bgcolor-wmax=['0.922', '0.922', '0.922']
+light-bgcolor2=['0.298', '0.267', '0.169']
+light-bguri='file:///usr/share/backgrounds/gnome/geometrics-l.jxl'
+light-boxcolor=['0.098', '0.161', '0.278']
+light-hcolor=['0.055', '0.106', '0.290']
+light-hscd-color=['0.224', '0.412', '0.647']
+light-iscolor=['0.098', '0.161', '0.278']
+light-mbcolor=['0.055', '0.106', '0.290']
+light-mbgcolor=['0.051', '0.145', '0.286']
+light-mhcolor=['0.055', '0.106', '0.290']
+light-mscolor=['0.224', '0.412', '0.647']
+light-mshcolor=['0.000', '0.000', '0.000']
+light-palette1=['24', '69', '136']
+light-palette10=['74', '108', '163']
+light-palette11=['42', '100', '172']
+light-palette12=['124', '140', '180']
+light-palette2=['68', '90', '152']
+light-palette3=['38', '92', '160']
+light-palette4=['94', '80', '39']
+light-palette5=['94', '72', '131']
+light-palette6=['191', '138', '130']
+light-palette7=['30', '49', '84']
+light-palette8=['150', '55', '110']
+light-palette9=['14', '27', '74']
+light-shcolor=['0.000', '0.000', '0.000']
+light-smbgcolor=['0.298', '0.267', '0.169']
+light-vw-color=['0.224', '0.412', '0.647']
+light-winbcolor=['0.224', '0.412', '0.647']
+mbcolor=['0.604', '0.510', '0.384']
+mbgcolor=['0.125', '0.075', '0.106']
+mfgalpha=1.0
+mhcolor=['0.604', '0.510', '0.384']
+monitor-height=1080
+monitor-width=1920
+mscolor=['0.447', '0.149', '0.271']
+mshcolor=['0.000', '0.000', '0.000']
+palette1=['92', '34', '58']
+palette10=['122', '84', '24']
+palette11=['172', '59', '115']
+palette12=['108', '105', '144']
+palette2=['24', '11', '19']
+palette3=['133', '67', '83']
+palette4=['52', '14', '32']
+palette5=['122', '62', '80']
+palette6=['89', '44', '13']
+palette7=['197', '130', '92']
+palette8=['152', '79', '110']
+palette9=['154', '130', '98']
+pause-reload=false
+reloadstyle=true
+set-notif-position=true
+set-yarutheme=true
+shadow=false
+shalpha=0.0
+shcolor=['0.000', '0.000', '0.000']
+smbgcolor=['0.255', '0.192', '0.145']
+smbgoverride=true
+trigger-autotheme=true
+trigger-reload=true
+vw-color=['0.447', '0.149', '0.271']
+winbcolor=['0.447', '0.149', '0.271']
+
+[org/gnome/shell/extensions/pomodoro-timer]
+auto-start-breaks=true
+auto-start-work=true
+focus-saved-event-sounds=''
+focus-saved-show-banners=''
+focus-saved-wallpaper-uri=''
+focus-saved-wallpaper-uri-dark=''
+session-completed-intervals=0
+session-interval-type='work'
+session-remaining-time=1500
+session-started=true
+session-state='idle'
+
+[org/gnome/shell/extensions/quake-terminal]
+horizontal-size=95
+render-on-primary-monitor=true
+terminal-id='kitty.desktop'
+terminal-shortcut=['<Control><Alt>q']
+vertical-size=95
+
+[org/gnome/shell/extensions/quick-settings-audio-panel]
+profiles-renames={'HP DHE-8005U Audio Device': {'off': ('Off', 'Off'), 'input:mono-fallback': ('Mono Input', 'Mono Input'), 'pro-audio': ('Pro Audio', 'Pro Audio'), 'output:iec958-stereo': ('Digital Stereo (IEC958) Output', 'Digital Stereo (IEC958) Output'), 'output:iec958-stereo+input:mono-fallback': ('Digital Stereo (IEC958) Output + Mono Input', 'Digital Stereo (IEC958) Output + Mono Input'), 'output:analog-stereo': ('Analog Stereo Output', 'Analog Stereo Output'), 'output:analog-stereo+input:mono-fallback': ('Analog Stereo Output + Mono Input', 'Analog Stereo Output + Mono Input')}, 'Tiger Lake-LP Smart Sound Technology Audio Controller': {'off': ('Off', 'Off'), 'pro-audio': ('Pro Audio', 'Pro Audio'), 'HiFi (HDMI1, HDMI2, HDMI3, Mic1, Mic2, Speaker)': ('Play HiFi quality Music (HDMI1, HDMI2, HDMI3, Mic1, Mic2, Speaker)', 'Play HiFi quality Music (HDMI1, HDMI2, HDMI3, Mic1, Mic2, Speaker)'), 'HiFi (HDMI1, HDMI2, HDMI3, Headphones, Mic1, Mic2)': ('Play HiFi quality Music (HDMI1, HDMI2, HDMI3, Headphones, Mic1, Mic2)', 'Play HiFi quality Music (HDMI1, HDMI2, HDMI3, Headphones, Mic1, Mic2)')}, 'USB Audio': {'off': ('Off', 'Off'), 'pro-audio': ('Pro Audio', 'Pro Audio'), 'input:iec958-stereo': ('Digital Stereo (IEC958) Input', 'Digital Stereo (IEC958) Input'), 'input:analog-stereo': ('Analog Stereo Input', 'Analog Stereo Input'), 'output:iec958-stereo': ('Digital Stereo (IEC958) Output', 'Digital Stereo (IEC958) Output'), 'output:iec958-stereo+input:iec958-stereo': ('Digital Stereo Duplex (IEC958)', 'Digital Stereo Duplex (IEC958)'), 'output:iec958-stereo+input:analog-stereo': ('Digital Stereo (IEC958) Output + Analog Stereo Input', 'Digital Stereo (IEC958) Output + Analog Stereo Input'), 'output:analog-stereo': ('Analog Stereo Output', 'Analog Stereo Output'), 'output:analog-stereo+input:iec958-stereo': ('Analog Stereo Output + Digital Stereo (IEC958) Input', 'Analog Stereo Output + Digital Stereo (IEC958) Input'), 'output:analog-stereo+input:analog-stereo': ('Analog Stereo Duplex', 'Analog Stereo Duplex')}, 'Steren COM-126': {'off': ('Off', 'Off'), 'pro-audio': ('Pro Audio', 'Pro Audio'), 'input:iec958-stereo': ('Digital Stereo (IEC958) Input', 'Digital Stereo (IEC958) Input'), 'input:analog-stereo': ('Analog Stereo Input', 'Analog Stereo Input')}}
+version=2
+
+[org/gnome/shell/extensions/workspace-indicator]
+embed-previews=false
+
+[org/gnome/shell/keybindings]
+show-screenshot-ui=['<Alt>F9']
+toggle-message-tray=['<Control>F2']
+toggle-quick-settings=['<Control>F3']
+
+[org/gnome/shell/weather]
+automatic-location=true
+locations=[<(uint32 2, <('Rio de Janeiro', 'SBRJ', true, [(-0.39968039870670141, -0.75340046626198298)], [(-0.39968039870670141, -0.75456400746111763)])>)>]
+
+[org/gnome/shell/world-clocks]
+locations=[<(uint32 2, <('Rio de Janeiro', 'SBRJ', true, [(-0.39968039870670141, -0.75340046626198298)], [(-0.39968039870670141, -0.75456400746111763)])>)>, <(uint32 2, <('London', 'EGWU', true, [(0.89971722940307675, -0.007272211034407213)], [(0.89884456477707964, -0.0020362232784242244)])>)>, <(uint32 2, <('Paris', 'LFPB', true, [(0.85462956287765413, 0.042760566673861078)], [(0.8528842336256599, 0.040724343395436846)])>)>, <(uint32 2, <('Mexico City', 'MMMX', true, [(0.33917564548646723, -1.7296212887263802)], [(0.33919020153242879, -1.7302951778038682)])>)>, <(uint32 2, <('New York', 'KNYC', true, [(0.71180344078725644, -1.2909618758762367)], [(0.71059804659265924, -1.2916478949920254)])>)>, <(uint32 2, <('Los Angeles', 'KCQT', true, [(0.59370283970450188, -2.0644336110828618)], [(0.59432360095955872, -2.063741622941031)])>)>, <(uint32 2, <('Tokyo', 'RJTI', true, [(0.62191898430954862, 2.4408429589140699)], [(0.62282074357417661, 2.4391218722853854)])>)>, <(uint32 2, <('Jakarta', 'WIII', true, [(-0.10675597839808398, 1.8613936472519526)], [(-0.10776437728000876, 1.8645255358749011)])>)>]
+
+[org/gnome/software]
+check-timestamp=int64 1773194719
+first-run=false
+flatpak-purge-timestamp=int64 1773226385
+
+[org/gtk/gtk4/settings/color-chooser]
+selected-color=(true, 1.0, 1.0, 1.0, 1.0)
+
+[org/gtk/gtk4/settings/file-chooser]
+show-hidden=false
+sort-directories-first=false

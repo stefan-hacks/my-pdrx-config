@@ -1,0 +1,15 @@
+org.freedesktop.Tracker3.Miner.Files crawling-interval -1
+org.freedesktop.Tracker3.Miner.Files enable-monitors true
+org.freedesktop.Tracker3.Miner.Files ignored-directories ['po', 'CVS', 'core-dumps', 'lost+found']
+org.freedesktop.Tracker3.Miner.Files ignored-directories-with-content ['.trackerignore', '.git', '.hg', '.nomedia']
+org.freedesktop.Tracker3.Miner.Files ignored-files ['*~', '*.o', '*.la', '*.lo', '*.loT', '*.in', '*.m4', '*.rej', '*.gmo', '*.orig', '*.pc', '*.omf', '*.aux', '*.tmp', '*.vmdk', '*.vm*', '*.nvram', '*.part', '*.rcore', '*.lzo', 'autom4te', 'conftest', 'confstat', 'Makefile', 'SCCS', 'ltmain.sh', 'libtool', 'config.status', 'confdefs.h', 'configure', '#*#', '~$*.doc?', '~$*.dot?', '~$*.xls?', '~$*.xlt?', '~$*.xlam', '~$*.ppt?', '~$*.pot?', '~$*.ppam', '~$*.ppsm', '~$*.ppsx', '~$*.vsd?', '~$*.vss?', '~$*.vst?', '*.directory']
+org.freedesktop.Tracker3.Miner.Files index-on-battery true
+org.freedesktop.Tracker3.Miner.Files index-on-battery-first-time true
+org.freedesktop.Tracker3.Miner.Files index-optical-discs false
+org.freedesktop.Tracker3.Miner.Files index-recursive-directories ['&DESKTOP', '&DOCUMENTS', '&MUSIC', '&PICTURES', '&VIDEOS']
+org.freedesktop.Tracker3.Miner.Files index-removable-devices false
+org.freedesktop.Tracker3.Miner.Files index-single-directories ['$HOME', '&DOWNLOAD']
+org.freedesktop.Tracker3.Miner.Files initial-sleep 15
+org.freedesktop.Tracker3.Miner.Files low-disk-space-limit -1
+org.freedesktop.Tracker3.Miner.Files removable-days-threshold 3
+org.freedesktop.Tracker3.Miner.Files throttle 0

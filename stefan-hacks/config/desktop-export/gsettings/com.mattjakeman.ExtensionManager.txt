@@ -1,0 +1,5 @@
+com.mattjakeman.ExtensionManager height 600
+com.mattjakeman.ExtensionManager is-maximized false
+com.mattjakeman.ExtensionManager show-unsupported false
+com.mattjakeman.ExtensionManager sort-enabled-first false
+com.mattjakeman.ExtensionManager width 800

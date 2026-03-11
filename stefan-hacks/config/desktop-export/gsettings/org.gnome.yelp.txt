@@ -1,0 +1,2 @@
+org.gnome.yelp font-adjustment 0
+org.gnome.yelp show-cursor false

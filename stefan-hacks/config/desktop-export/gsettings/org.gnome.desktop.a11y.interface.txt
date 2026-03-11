@@ -1,0 +1,2 @@
+org.gnome.desktop.a11y.interface high-contrast false
+org.gnome.desktop.a11y.interface show-status-shapes false

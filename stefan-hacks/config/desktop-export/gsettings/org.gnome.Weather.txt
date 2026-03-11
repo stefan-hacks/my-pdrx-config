@@ -1,0 +1,4 @@
+org.gnome.Weather locations [<(uint32 2, <('Rio de Janeiro', 'SBRJ', true, [(-0.39968039870670141, -0.75340046626198298)], [(-0.39968039870670141, -0.75456400746111763)])>)>]
+org.gnome.Weather window-height 540
+org.gnome.Weather window-maximized false
+org.gnome.Weather window-width 519

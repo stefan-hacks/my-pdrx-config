@@ -1,0 +1,11 @@
+org.gnome.Snapshot capture-mode 'picture'
+org.gnome.Snapshot countdown 0
+org.gnome.Snapshot enable-audio-recording true
+org.gnome.Snapshot is-maximized false
+org.gnome.Snapshot last-camera-id ''
+org.gnome.Snapshot picture-format 'jpeg'
+org.gnome.Snapshot play-shutter-sound true
+org.gnome.Snapshot show-composition-guidelines false
+org.gnome.Snapshot video-format 'vp8webm'
+org.gnome.Snapshot window-height 640
+org.gnome.Snapshot window-width 800

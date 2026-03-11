@@ -1,0 +1,2 @@
+org.gnome.Characters max-recent-characters uint32 100
+org.gnome.Characters recent-characters @as []

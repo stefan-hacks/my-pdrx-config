@@ -1,0 +1,1 @@
+org.gtk.gtk4.Settings.EmojiChooser recently-used-emoji @a((aussasasu)u) []

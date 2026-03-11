@@ -1,0 +1,4 @@
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-tumblr default-blog 0
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-tumblr default-size 2
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-tumblr token ''
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-tumblr token-secret ''

@@ -1,0 +1,5 @@
+org.yorba.shotwell.sharing.facebook access-token ''
+org.yorba.shotwell.sharing.facebook default-size 0
+org.yorba.shotwell.sharing.facebook strip-metadata false
+org.yorba.shotwell.sharing.facebook uid ''
+org.yorba.shotwell.sharing.facebook user-name ''

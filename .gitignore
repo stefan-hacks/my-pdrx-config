@@ -1,0 +1,5 @@
+# Exclude backups (optional - they can be large)
+backups/
+
+# Or include everything and exclude only huge dirs
+# backups/*/

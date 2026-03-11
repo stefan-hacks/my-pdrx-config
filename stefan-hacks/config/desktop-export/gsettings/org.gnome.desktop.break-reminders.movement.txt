@@ -1,0 +1,10 @@
+org.gnome.desktop.break-reminders.movement countdown false
+org.gnome.desktop.break-reminders.movement delay-seconds uint32 180
+org.gnome.desktop.break-reminders.movement duration-seconds uint32 300
+org.gnome.desktop.break-reminders.movement fade-screen true
+org.gnome.desktop.break-reminders.movement interval-seconds uint32 1800
+org.gnome.desktop.break-reminders.movement lock-screen false
+org.gnome.desktop.break-reminders.movement notify true
+org.gnome.desktop.break-reminders.movement notify-overdue true
+org.gnome.desktop.break-reminders.movement notify-upcoming true
+org.gnome.desktop.break-reminders.movement play-sound true

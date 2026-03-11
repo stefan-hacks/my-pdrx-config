@@ -1,0 +1,2 @@
+org.gnome.shell.weather automatic-location true
+org.gnome.shell.weather locations [<(uint32 2, <('Rio de Janeiro', 'SBRJ', true, [(-0.39968039870670141, -0.75340046626198298)], [(-0.39968039870670141, -0.75456400746111763)])>)>]

@@ -1,0 +1,9 @@
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-rajce hide-album false
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-rajce last-category -1
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-rajce last-photo-size -1
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-rajce remember false
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-rajce show-album false
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-rajce strip-metadata false
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-rajce token ''
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-rajce url 'http://rajce.net/'
+org.yorba.shotwell.sharing.org-yorba-shotwell-publishing-rajce username ''

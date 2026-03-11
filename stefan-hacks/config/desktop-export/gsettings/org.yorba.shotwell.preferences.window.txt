@@ -1,0 +1,7 @@
+org.yorba.shotwell.preferences.window direct-height 768
+org.yorba.shotwell.preferences.window direct-maximize false
+org.yorba.shotwell.preferences.window direct-width 1024
+org.yorba.shotwell.preferences.window library-height 768
+org.yorba.shotwell.preferences.window library-maximize false
+org.yorba.shotwell.preferences.window library-width 1024
+org.yorba.shotwell.preferences.window sidebar-position 180

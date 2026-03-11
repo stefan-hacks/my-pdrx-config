@@ -1,0 +1,3 @@
+org.gnome.baobab.ui active-chart 'rings'
+org.gnome.baobab.ui is-maximized false
+org.gnome.baobab.ui window-size (960, 600)
