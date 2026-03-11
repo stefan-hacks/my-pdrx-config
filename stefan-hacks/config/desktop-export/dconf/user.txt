@@ -26,7 +26,7 @@ panel-id='world'
 size=(870, 690)
 
 [org/gnome/control-center]
-last-panel='background'
+last-panel='system'
 window-state=(980, 640, false)
 
 [org/gnome/desktop/app-folders]
@@ -74,8 +74,11 @@ icon-theme='Yaru-magenta-dark'
 show-battery-percentage=true
 
 [org/gnome/desktop/notifications]
-application-children=['org-gnome-software', 'firefox-esr', 'org-chromium-chromium']
+application-children=['org-gnome-software', 'firefox-esr', 'org-chromium-chromium', 'com-discordapp-discord']
 show-banners=true
+
+[org/gnome/desktop/notifications/application/com-discordapp-discord]
+application-id='com.discordapp.Discord.desktop'
 
 [org/gnome/desktop/notifications/application/firefox-esr]
 application-id='firefox-esr.desktop'
@@ -175,8 +178,9 @@ highlight-search-result-terms=true
 hotkey-open-primary-monitor=false
 max-search-results=10
 menu-button-icon='emblem-debian-white'
+menu-layout='Whisker'
 prefs-visible-page=0
-recently-installed-apps=['org.qbittorrent.qBittorrent.desktop', 'com.github.jeromerobert.pdfarranger.desktop', 'org.onlyoffice.desktopeditors.desktop', 'mpv.desktop', 'vlc.desktop', 'guvcview.desktop', 'com.discordapp.Discord.desktop', 'org.gnome.Geary.desktop', 'org.gnome.World.PikaBackup.desktop', 'io.gitlab.adhami3310.Impression.desktop', 'torbrowser-settings.desktop', 'torbrowser.desktop', 'net.cozic.joplin_desktop.desktop']
+recently-installed-apps=['org.qbittorrent.qBittorrent.desktop', 'com.github.jeromerobert.pdfarranger.desktop', 'org.onlyoffice.desktopeditors.desktop', 'mpv.desktop', 'vlc.desktop', 'guvcview.desktop', 'org.gnome.Geary.desktop', 'org.gnome.World.PikaBackup.desktop', 'io.gitlab.adhami3310.Impression.desktop', 'torbrowser-settings.desktop', 'torbrowser.desktop', 'net.cozic.joplin_desktop.desktop']
 runner-hotkey=['<Alt>space']
 runner-hotkey-open-primary-monitor=false
 runner-hotkey-overlay-key-enabled=false
