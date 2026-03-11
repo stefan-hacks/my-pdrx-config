@@ -124,6 +124,19 @@ unmaximize=@as []
 [org/gnome/desktop/wm/preferences]
 button-layout='close,minimize,maximize:appmenu'
 
+[org/gnome/evince/default]
+continuous=true
+dual-page=false
+dual-page-odd-left=false
+enable-spellchecking=true
+fullscreen=false
+inverted-colors=true
+show-sidebar=false
+sidebar-page='links'
+sidebar-size=148
+sizing-mode='automatic'
+window-ratio=(1.6120906801007557, 1.2241021384070947)
+
 [org/gnome/evolution-data-server]
 migrated=true
 
@@ -146,7 +159,7 @@ last-folder-path='/home/stefan-hacks/Pictures/wallpapers'
 last-folder-path='/home/stefan-hacks/Documents'
 
 [org/gnome/portal/filechooser/org.gnome.Settings]
-last-folder-path='/home/stefan-hacks/Pictures/wallpapers'
+last-folder-path='/home/stefan-hacks/Pictures'
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-schedule-automatic=false
@@ -180,7 +193,7 @@ max-search-results=10
 menu-button-icon='emblem-debian-white'
 menu-layout='Whisker'
 prefs-visible-page=0
-recently-installed-apps=['org.qbittorrent.qBittorrent.desktop', 'com.github.jeromerobert.pdfarranger.desktop', 'org.onlyoffice.desktopeditors.desktop', 'mpv.desktop', 'vlc.desktop', 'guvcview.desktop', 'org.gnome.Geary.desktop', 'org.gnome.World.PikaBackup.desktop', 'io.gitlab.adhami3310.Impression.desktop', 'torbrowser-settings.desktop', 'torbrowser.desktop', 'net.cozic.joplin_desktop.desktop']
+recently-installed-apps=['org.qbittorrent.qBittorrent.desktop', 'com.github.jeromerobert.pdfarranger.desktop', 'org.onlyoffice.desktopeditors.desktop', 'mpv.desktop', 'vlc.desktop', 'guvcview.desktop', 'org.gnome.Geary.desktop', 'org.gnome.World.PikaBackup.desktop', 'io.gitlab.adhami3310.Impression.desktop', 'torbrowser-settings.desktop', 'torbrowser.desktop', 'net.cozic.joplin_desktop.desktop', 'virtualbox.desktop', 'display-im7.q16.desktop']
 runner-hotkey=['<Alt>space']
 runner-hotkey-open-primary-monitor=false
 runner-hotkey-overlay-key-enabled=false
@@ -442,3 +455,17 @@ selected-color=(true, 1.0, 1.0, 1.0, 1.0)
 [org/gtk/gtk4/settings/file-chooser]
 show-hidden=false
 sort-directories-first=false
+
+[org/gtk/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=157
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+window-position=(26, 23)
+window-size=(1231, 902)
