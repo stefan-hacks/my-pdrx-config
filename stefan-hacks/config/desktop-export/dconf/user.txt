@@ -74,7 +74,7 @@ icon-theme='Yaru-magenta-dark'
 show-battery-percentage=true
 
 [org/gnome/desktop/notifications]
-application-children=['org-gnome-software', 'firefox-esr', 'org-chromium-chromium', 'com-discordapp-discord']
+application-children=['org-gnome-software', 'firefox-esr', 'org-chromium-chromium', 'com-discordapp-discord', 'gnome-power-panel']
 show-banners=true
 
 [org/gnome/desktop/notifications/application/com-discordapp-discord]
@@ -82,6 +82,9 @@ application-id='com.discordapp.Discord.desktop'
 
 [org/gnome/desktop/notifications/application/firefox-esr]
 application-id='firefox-esr.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
 
 [org/gnome/desktop/notifications/application/org-chromium-chromium]
 application-id='org.chromium.Chromium.desktop'
