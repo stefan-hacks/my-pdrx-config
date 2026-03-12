@@ -1,4 +1,4 @@
-org.gnome.Evolution.DefaultSources default-address-book 'system'
+org.gnome.Evolution.DefaultSources default-address-book '05068d3a417c0b72d54ea81aef3d9c1c526e94fe'
 org.gnome.Evolution.DefaultSources default-calendar 'system'
 org.gnome.Evolution.DefaultSources default-mail-account 'system'
 org.gnome.Evolution.DefaultSources default-mail-identity ''

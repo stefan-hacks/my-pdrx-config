@@ -1,1 +1,1 @@
-org.freedesktop.folks primary-store ''
+org.freedesktop.folks primary-store 'eds:05068d3a417c0b72d54ea81aef3d9c1c526e94fe'
