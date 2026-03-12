@@ -240,3 +240,42 @@ source .bashrc
 sudo nala install figlet lolcat bat
 brew install thefuck bat-extras bat gum glow
 source .bashrc
+pwd
+git clone https://github.com/JB63134/bash_ct.git
+cd bash_ct/
+ls -l
+sudo cp ct.sh /usr/local/bin/ct
+sudo chmod +x /usr/local/bin/ct
+cd -1
+ll
+rm -rf bash_ct/
+ll
+lla
+cheat git
+cheat git config
+git config
+git config -l
+pdrx init
+z .pdrx/
+pwd
+z lin/
+pwd
+pdrx sync
+z
+lla
+pdrx track .*
+pdrx track .ssh/*
+pdrx sync
+cd -
+gitup
+git config --global user.email "linnoks80@proton.me"
+git config --global user.name "lin"
+gitup
+pdrx update && pdrx upgrade
+z
+pwd
+pdrx status
+pdrx backup lin
+z .pdrx/lin/
+gitup
+sudo reboot

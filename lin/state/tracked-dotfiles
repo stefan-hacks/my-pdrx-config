@@ -21,6 +21,3 @@
 .xorgxrdp.10.log
 .xorgxrdp.10.log.old
 .xsession-errors
-.ssh/authorized_keys
-.ssh/id_ed25519
-.ssh/id_ed25519.pub
