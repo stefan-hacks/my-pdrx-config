@@ -1,5 +1,5 @@
 org.gnome.software allow-updates true
-org.gnome.software check-timestamp int64 1773230048
+org.gnome.software check-timestamp int64 1773324878
 org.gnome.software compatible-projects ['GNOME', 'KDE', 'XFCE']
 org.gnome.software download-updates true
 org.gnome.software download-updates-notify true
