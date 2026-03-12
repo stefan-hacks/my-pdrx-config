@@ -279,3 +279,47 @@ pdrx backup lin
 z .pdrx/lin/
 gitup
 sudo reboot
+z .pdrx/lin/
+gitup
+git pull
+git config pull.rebase false
+git pull
+ll config/dotfiles/.ssh/
+gitup
+z
+brew uninstall pdrx
+mkdir gitprojects
+z gitprojects
+git clone https://github.com/stefan-hacks/pdrx
+z pdrx/
+ll
+cp pdrx ~/.local/bin/
+z
+pdrx --help
+pdrx search ripgrep --parallel
+pdrx update --parallel
+pdrx upgrade --parallel
+pdrx --help
+brew install carapace
+z .pdrx/lin/
+gitup
+git pull
+git config pull.rebase false
+git pull
+ll config/dotfiles/.ssh/
+gitup
+z
+brew uninstall pdrx
+mkdir gitprojects
+z gitprojects
+git clone https://github.com/stefan-hacks/pdrx
+z pdrx/
+ll
+cp pdrx ~/.local/bin/
+z
+pdrx --help
+pdrx search ripgrep --parallel
+pdrx update --parallel
+pdrx upgrade --parallel
+pdrx --help
+brew install carapace
