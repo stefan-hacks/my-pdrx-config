@@ -8,7 +8,7 @@ org.gnome.software external-appstream-system-wide false
 org.gnome.software external-appstream-urls @as []
 org.gnome.software filter-default-branch true
 org.gnome.software first-run false
-org.gnome.software flatpak-purge-timestamp int64 1773275512
+org.gnome.software flatpak-purge-timestamp int64 1773362004
 org.gnome.software free-repos ['debian-*-main']
 org.gnome.software free-repos-url 'https://www.debian.org/social_contract#guidelines'
 org.gnome.software install-bundles-system-wide true
