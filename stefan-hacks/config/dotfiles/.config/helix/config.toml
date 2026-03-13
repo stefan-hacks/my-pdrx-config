@@ -1,0 +1,36 @@
+# Evil-Helix config - default vim keybinds
+
+# Theme
+theme = "catppuccin_mocha"
+
+[editor]
+scrolloff = 999
+line-number = "relative" 
+cursorline = true
+bufferline = "multiple" # shows bufferline when more than one buffer
+mouse = true
+color-modes = true
+end-of-line-diagnostics = "hint"
+
+[editor.inline-diagnostics]
+cursor-line = "warning"
+
+[editor.soft-wrap]
+enable = true
+
+[editor.indent-guides]
+render = true
+character = "|"
+skip-levels = 1
+
+[editor.lsp]
+display-inlay-hints = true
+
+# changes the cursor shape depending on the mode you are in
+[editor.cursor-shape]
+normal = "block"
+insert = "bar"
+select = "underline"
+
+[keys.normal]
+C-g = [":new", ":insert-output lazygit", ":buffer-close!", ":redraw"] # lazygit integration in helix with ctrl+g

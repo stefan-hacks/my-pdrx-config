@@ -1,0 +1,15 @@
+[Unit]
+Description=Kanata keyboard remapper
+Documentation=https://github.com/jtroo/kanata
+After=default.target
+
+[Service]
+Type=simple
+Environment=PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/home/stefan-hacks/.cargo/bin:/home/linuxbrew/.linuxbrew/bin
+Environment=DISPLAY=:0
+ExecStart=/bin/sh -c 'exec /home/linuxbrew/.linuxbrew/bin/kanata --cfg /home/stefan-hacks/.config/kanata/kanata.kbd'
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target
