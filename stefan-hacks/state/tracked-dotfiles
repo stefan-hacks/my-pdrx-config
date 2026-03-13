@@ -117,3 +117,4 @@ fresh_setup.sh
 .config/ulauncher/shortcuts.json
 .config/wezterm/wezterm.lua
 .config/zellij/config.kdl
+gitprojects/tools/grub2-themes/background.jpg
