@@ -228,6 +228,7 @@ tray-pos='left'
 arcmenu-hotkey=['<Control>F1']
 arcmenu-hotkey-overlay-key-enabled=true
 extra-categories=[(3, true), (2, true), (0, true), (1, true), (4, true)]
+hide-overview-on-arcmenu-open=true
 hide-overview-on-startup=true
 highlight-search-result-terms=true
 hotkey-open-primary-monitor=false
